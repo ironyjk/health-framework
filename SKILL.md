@@ -1,5 +1,5 @@
 ---
-name: health-framework
+name: fit
 version: "0.1.0"
 description: "건강·트레이닝 메타 라우터 — 영양·훈련·수면·측정 12개 프레임워크 중 목적(감량/증량/근력/지구력/건강수명)과 증상에 맞는 것을 자동 선택. 근거 기반만 수록. 의료 자문 아님."
 tools: ["Read", "Write", "Edit", "Skill"]
@@ -269,8 +269,8 @@ dependencies:
 
 ## 관련 도메인
 
-- **`learning-framework`** — 식이·운동 습관 정착은 본질적으로 *행동 변화 프로젝트*. `learning-framework`의 `deliberate-practice`(기술 획득), `pomodoro-and-focus`(루틴 구축), `metalearning`(자기 관찰 루프)과 결합. 프레임워크는 "무엇을 할지"를 알려주지만 "꾸준히 하는 법"은 학습 레포.
-- **`investment`** — FIRE·은퇴 계획에서 건강은 외생 변수가 아님. `blood-biomarkers`·`body-composition` 결과가 *의료비 시나리오·건강보험료·생명기대*를 통해 `investment`의 `fire-korean`에 피드백.
+- **`learn`** — 식이·운동 습관 정착은 본질적으로 *행동 변화 프로젝트*. `learn`의 `deliberate-practice`(기술 획득), `pomodoro-and-focus`(루틴 구축), `metalearning`(자기 관찰 루프)과 결합. 프레임워크는 "무엇을 할지"를 알려주지만 "꾸준히 하는 법"은 학습 레포.
+- **`money`** — FIRE·은퇴 계획에서 건강은 외생 변수가 아님. `blood-biomarkers`·`body-composition` 결과가 *의료비 시나리오·건강보험료·생명기대*를 통해 `money`의 `fire-korean`에 피드백.
 
 ## 원칙
 

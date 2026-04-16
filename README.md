@@ -33,7 +33,7 @@ health-framework/
 ## 사용
 
 ```
-/health-framework <상황 설명>
+/fit <상황 설명>
 ```
 
 메타 라우터가 목적·증상·레벨을 분류해 1~3개 프레임워크를 선택, Skill 툴로 실행·합성.
