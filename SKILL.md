@@ -1,6 +1,8 @@
 ---
 name: fit
-version: "0.1.0"
+version: "0.2.0"
+last_verified: "2026-04-17"
+valid_until: "2026-10-17"
 description: "건강·트레이닝 메타 라우터 — 영양·훈련·수면·측정 12개 프레임워크 중 목적(감량/증량/근력/지구력/건강수명)과 증상에 맞는 것을 자동 선택. 근거 기반만 수록. 의료 자문 아님."
 tools: ["Read", "Write", "Edit", "Skill"]
 dependencies:
