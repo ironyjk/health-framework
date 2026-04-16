@@ -1,0 +1,10 @@
+# 개인 시나리오·건강기록 — 커밋 금지
+scenarios/
+.private/
+*.local.md
+*.log
+
+# 시스템
+.DS_Store
+*.swp
+*.swo
