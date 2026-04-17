@@ -1,185 +1,185 @@
 ---
 name: body-composition
 version: "0.1.0"
-description: "체성분 측정 — DEXA(기준) vs BIA(InBody) vs 피부두겹 vs 사진·거울. 체지방률·근육량·허리둘레·FFMI. 각 측정법의 오차 구조와 올바른 해석. 체중계 숫자의 한계."
+description: "Body composition measurement — DEXA (reference) vs BIA (InBody) vs skinfold vs photos·mirror. Body fat %, muscle mass, waist circumference, FFMI. Error structure and correct interpretation of each method. Limits of the scale number."
 ---
 
 # Body Composition
 
-## 한 줄 요약
+## One-Line Summary
 
-**체중은 체성분의 요약 통계.** 같은 70kg도 체지방·근육·수분 구성에 따라 건강·기능·외관이 전혀 다르다. 측정은 **여러 방법 조합 + 일관된 조건 + 추세 관찰**.
+**Weight is a summary statistic of body composition.** The same 70 kg looks and functions entirely differently depending on the mix of body fat, muscle, and water. Measurement = **combine multiple methods + consistent conditions + track the trend**.
 
-## 증거 강도
+## Evidence Strength
 
-- 체지방률·허리둘레의 대사·심혈관 리스크 예측: **강함**
-- DEXA의 연구 기준으로서 정확도: **강함**
-- 허리둘레 단독 지표의 유용성: **강함** (단순·저비용)
-- BIA(InBody)의 절대 정확도: **보통~약함**, 동일 조건 추세는 **보통**
-- 사진·거울·피팅 체크의 실용성: **높음** (주관적이나 의미 있음)
-- "생체임피던스로 내장지방 정밀 분석" 마케팅: **약함**
-- FFMI의 자연 한계 상한(~25) 주장: **보통** (Kouri 1995 이후)
+- Body fat % and waist circumference predicting metabolic/cardiovascular risk: **strong**
+- DEXA's accuracy as a research reference: **strong**
+- Waist circumference alone as a useful indicator: **strong** (simple, low-cost)
+- Absolute accuracy of BIA (InBody): **moderate to weak**; trend under identical conditions: **moderate**
+- Practicality of photos, mirror, clothing fit checks: **high** (subjective but meaningful)
+- Marketing claims of "precise visceral fat analysis via bioimpedance": **weak**
+- Claim of a natural FFMI ceiling (~25): **moderate** (Kouri 1995 onward)
 
-## 이론·증거 기원
+## Theoretical·Empirical Origins
 
-- **Keys · Brozek** — 피부두겹(skinfold) 고전
-- **Jackson-Pollock 공식** — 3·7지점 피부두겹
-- **Siri·Brozek** 밀도→체지방률 공식
-- **Kouri et al. (1995)** — FFMI와 자연 근육 한계
-- **WHO** — 허리둘레·WHtR 기준
-- **Katch-McArdle**, Durnin-Womersley 공식
+- **Keys · Brozek** — skinfold classics
+- **Jackson-Pollock formulas** — 3- and 7-site skinfold
+- **Siri·Brozek** density → body fat % formulas
+- **Kouri et al. (1995)** — FFMI and natural muscle limits
+- **WHO** — waist circumference·WHtR criteria
+- **Katch-McArdle**, Durnin-Womersley formulas
 
-## 주요 측정법 비교
+## Comparison of Main Measurement Methods
 
 ### DEXA (Dual-energy X-ray Absorptiometry)
-- 기준(reference) 수준. 지방·제지방·골밀도 3컴파트먼트
-- 오차 ±1~3% 체지방률
-- 비용(국내 3~8만원), 방사선 낮으나 존재
-- 수분 상태·식사·운동이 당일 결과 흔듦 (소폭)
-- **권장**: 6~12개월마다 1회, 같은 조건(아침·공복·배뇨 후)
+- Reference-grade. Three-compartment: fat, lean mass, bone density
+- Error ±1~3% body fat
+- Cost (Korea: 30,000~80,000 KRW), radiation low but present
+- Hydration, meals, exercise sway the same-day result (slightly)
+- **Recommended**: once every 6~12 months, same conditions (morning, fasted, post-void)
 
-### BIA (Bioelectrical Impedance) — InBody 등
-- 몸의 전기저항으로 추정 (수분·지방·근육 전도도 차이)
-- 오차 체지방률 ±3~8% (모델·조건 따라)
-- 수분·식사·운동·월경주기에 민감
-- **같은 조건 추세는 유용**, 절대값은 보정 필요
-- 다주파 모델이 단일주파보다 낫지만 DEXA 대체 아님
+### BIA (Bioelectrical Impedance) — InBody, etc.
+- Estimates from electrical resistance of the body (differential conductivity of water·fat·muscle)
+- Body fat % error ±3~8% (depends on model and conditions)
+- Sensitive to hydration, meals, exercise, menstrual cycle
+- **Trend under identical conditions is useful**; absolute value needs calibration
+- Multi-frequency models beat single-frequency but don't replace DEXA
 
-### 피부두겹 (Skinfold Calipers)
-- 숙련자가 하면 오차 ±3~4%
-- 저비용, 휴대 가능
-- 숙련도 의존 크고, 과체지방자에서 측정 어려움
+### Skinfold Calipers
+- Error ±3~4% in skilled hands
+- Low-cost, portable
+- Highly operator-dependent; difficult to measure in the high-body-fat population
 
-### 허리둘레·WHtR
-- **허리/키 비(WHtR)**: <0.5 목표 (단순·강력)
-- 배꼽 기준 vs 최저 갈비-장골 중간 — 프로토콜 일관성
-- 심혈관·당뇨 리스크 예측 강함
+### Waist Circumference·WHtR
+- **Waist-to-height ratio (WHtR)**: target <0.5 (simple, powerful)
+- Navel-based vs midpoint between lowest rib and iliac crest — protocol consistency
+- Strong predictor of cardiovascular and diabetes risk
 
-### 허리-엉덩이 비(WHR)
-- 남 <0.9, 여 <0.85 (WHO)
+### Waist-to-Hip Ratio (WHR)
+- Men <0.9, women <0.85 (WHO)
 
-### 사진·거울·피팅
-- **일관된 조건**(아침·같은 장소·같은 조명·포즈) 월 1회
-- 의상 피팅(벨트 구멍·특정 바지) = 정직한 장기 추적
-- 무시하면 안 되는 실용 지표
+### Photos·Mirror·Fit
+- **Consistent conditions** (morning, same spot, same lighting, same pose) once per month
+- Clothing fit (belt holes, a specific pair of pants) = honest long-term tracking
+- Practical indicators that should not be ignored
 
-### 체중계
-- **주 3~7회 아침 공복**, 주평균 사용
-- 하루 변동 ±1~2kg 흔함 (수분·글리코겐·장)
-- 스마트 체중계(BIA 포함)는 BIA 한계 공유
+### Scale
+- **3~7 mornings/week fasted**, use the weekly average
+- Daily fluctuation of ±1~2 kg is common (water·glycogen·gut)
+- Smart scales (BIA-equipped) share the limits of BIA
 
-### BodPod(공기치환법)
-- 정확도 DEXA 근접, 접근성 낮음 (국내)
+### BodPod (air displacement plethysmography)
+- Accuracy approaches DEXA, low accessibility (in Korea)
 
-### 3D 스캔
-- 둘레·부피 변화 추적 유용, 체지방률 계산은 회의적
+### 3D Scan
+- Useful for tracking circumference·volume changes; body fat % calculation is dubious
 
-## 핵심 지표
+## Core Metrics
 
-### 체지방률 (Body Fat %)
-| 범주 | 남 | 여 |
+### Body Fat %
+| Category | Men | Women |
 |---|---|---|
-| 필수 | 2~5% | 10~13% |
-| 운동선수 | 6~13% | 14~20% |
-| 피트니스 | 14~17% | 21~24% |
-| 평균 | 18~24% | 25~31% |
-| 비만 | ≥25% | ≥32% |
+| Essential | 2~5% | 10~13% |
+| Athlete | 6~13% | 14~20% |
+| Fitness | 14~17% | 21~24% |
+| Average | 18~24% | 25~31% |
+| Obese | ≥25% | ≥32% |
 
 ### FFMI (Fat-Free Mass Index)
 ```
 FFMI = FFM (kg) / height² (m²)
 Adjusted FFMI = FFMI + 6.1 × (1.8 - height m)
 ```
-- 자연 근육 상한 추정: **~25 (남)**, ~22 (여) — 보디빌딩 비사용자 95th
-- FFMI ~20 = 잘 훈련된 일반 남성
-- 절대 상한은 아니며 키·유전에 따라 ±
+- Estimated natural muscle ceiling: **~25 (men)**, ~22 (women) — 95th percentile of non-drug-using bodybuilders
+- FFMI ~20 = well-trained average man
+- Not an absolute ceiling; varies ± with height and genetics
 
-### 허리둘레 (한국인 기준)
-- 복부비만: 남 ≥90cm, 여 ≥85cm (아시아인 기준, 대한비만학회)
-- WHtR <0.5는 가장 심플한 심혈관 스크린
+### Waist Circumference (Korean criteria)
+- Abdominal obesity: men ≥90 cm, women ≥85 cm (Asian criteria, Korean Society for the Study of Obesity)
+- WHtR <0.5 is the simplest cardiovascular screen
 
-### SMI (Skeletal Muscle Index) — sarcopenia 기준
-- **AWGS 2019 (아시아)**: 남 <7.0 / 여 <5.7 kg/m² (DEXA), BIA는 남 <7.0 / 여 <5.7 (멀티주파)
-- 근육량 + **악력**(남 <28 kg / 여 <18 kg) + **보행속도**(<1.0 m/s) 조합으로 진단
-- 65세+ 필수 지표
+### SMI (Skeletal Muscle Index) — sarcopenia criteria
+- **AWGS 2019 (Asia)**: men <7.0 / women <5.7 kg/m² (DEXA); for BIA men <7.0 / women <5.7 (multi-frequency)
+- Diagnosis combines muscle mass + **grip strength** (men <28 kg / women <18 kg) + **gait speed** (<1.0 m/s)
+- Essential indicator at age 65+
 
-### 기능 지표 (체성분 이상)
-- **VO2max** (연령·성별 percentile): 전사망률 예측 최강. 운동 트레드밀 Ramp 또는 추정(Astrand·Cooper 12분)
-- **악력**: 휴대용 악력계, 좌우 평균 × 3회
-- **보행속도**: 4m 평지 걷기, 고령·건강 스크리닝
-- **30초 의자 일어서기 (sit-to-stand)**: 하체 근기능 간이 측정
+### Functional Metrics (beyond body composition)
+- **VO2max** (percentile by age·sex): strongest predictor of all-cause mortality. Exercise treadmill Ramp protocol, or estimated (Astrand·Cooper 12-minute)
+- **Grip strength**: handheld dynamometer, average of left and right × 3 trials
+- **Gait speed**: 4 m flat walk, screening for elderly and general health
+- **30-second sit-to-stand**: simple measure of lower-body muscle function
 
-## 실전 적용
+## Practical Application
 
-### 추적 프로토콜
+### Tracking Protocol
 ```
-주간: 체중(아침·공복) 주평균, 허리둘레(배꼽 주 1회)
-월간: 사진(정/측/후면, 같은 조건), BIA 또는 피부두겹
-반년: DEXA (자원 있을 시)
+Weekly: weight (morning, fasted) weekly average, waist circumference (navel, once/week)
+Monthly: photos (front/side/rear, same conditions), BIA or skinfold
+Semi-annually: DEXA (if resources allow)
 ```
 
-### 감량 중
-- 체중 -0.5~1%/주 목표
-- 허리둘레 4주 -1~2cm
-- DEXA: LBM 보존 + FM 감소 = 성공
-- BIA "근육 증가"는 대부분 수분·글리코겐 변화 (특히 감량 중)
+### During Fat Loss
+- Target body weight -0.5~1%/week
+- Waist circumference -1~2 cm over 4 weeks
+- DEXA: LBM preserved + FM decreased = success
+- A BIA "muscle gain" during fat loss is mostly water·glycogen shifts
 
-### GLP-1 agonist 복용자 특별 추적
-- **LBM 손실 비율 주의** — 일반 감량 대비 LBM 손실 비율 높음 (Wilding STEP 1 post-hoc, Blundell 연구). 감량 중 근량 <70% 보존이 목표
-- **4~8주마다 DEXA 또는 같은 BIA**, 단백질 1.2~1.6 g/kg LBM + 저항훈련 주 2~3회
-- 허리둘레 급감은 축하, 악력·계단 오르기 RPE 체크 — 기능 감소 시 단백질·훈련 재점검
-- 정지 시 체중 리바운드 흔함 — 체성분 리바운드는 체중보다 느리다 (근 재획득 어려움)
+### Special Tracking for GLP-1 Agonist Users
+- **Watch the proportion of LBM loss** — higher LBM-loss ratio than typical fat loss (Wilding STEP 1 post-hoc, Blundell studies). Target >70% muscle preservation during loss
+- **DEXA or the same BIA every 4~8 weeks**, protein 1.2~1.6 g/kg LBM + resistance training 2~3×/week
+- Rapid waist shrinkage is a win, but check grip strength and stair-climb RPE — reassess protein·training if function drops
+- Rebound is common upon discontinuation — body composition rebounds more slowly than weight (muscle reacquisition is hard)
 
-### 한국 InBody 현실
-- 헬스장·사무실·한의원 등에 흔함. 모델 편차(전문가형 770·470 vs 가정형)
-- **다른 기기 비교 금지**. 같은 기기·같은 시간대(아침 공복·배뇨 후)·같은 복장·수분 섭취 조건
-- 추천: 동일 기기 월 1회 이하. "근육량 0.3kg 변화"에 일희일비 금지 — 측정 오차 범위
-- **InBody 부위별 근육량 비대칭 ±5%**는 정상 변동. 강한 비대칭은 실제 발달·측정 오차 모두 가능
+### Korean InBody Realities
+- Common in gyms, offices, oriental medicine clinics, etc. Model variance (professional 770·470 vs home models)
+- **Don't compare across machines.** Same machine, same time of day (morning, fasted, post-void), same attire, same hydration
+- Recommendation: at most once/month on the same machine. Don't agonize over a "0.3 kg muscle change" — within measurement error
+- **InBody segmental muscle asymmetry of ±5%** is normal variability. Strong asymmetry can reflect real development, measurement error, or both
 
-### 증량 중
-- 체중 +0.25~0.5%/주
-- 허리 <1cm/월 (지방 누적 최소)
-- FFMI 장기 추적으로 근량 이득 확인
+### During Bulking
+- Body weight +0.25~0.5%/week
+- Waist <1 cm/month (minimize fat accumulation)
+- Long-term FFMI tracking to confirm muscle gains
 
-### 재구성 (초보자·재개자)
-- 동시에 FM↓·LBM↑ 가능 구간
-- 체중 변화 작음 → **사진·허리·FFMI·거울**이 더 나은 지표
+### Recomposition (Beginners·Returnees)
+- Possible window of simultaneous FM↓·LBM↑
+- Weight change is small → **photos, waist, FFMI, mirror** are better indicators
 
-## 안티패턴
+## Antipatterns
 
-- **체중계 하나로 성공/실패 판단**
-- **InBody 수치 절대값 과신** — 기기·조건·수분 민감
-- **측정 직후 비정상 수치에 식단 재설계** — 1회 outlier 가능
-- **허리둘레 무시** — 가장 저렴·강력한 지표 중 하나
-- **여성의 월경주기 영향 무시** — 주간 ±1~2kg 수분 변동 흔함
-- **DEXA를 매주** — 방사선·비용, 변화 구별 가능 시점 아님
-- **체지방률 "한 자리수" 목표 강박** — 무월경·호르몬 저하·정신건강 리스크
-- **마른 비만(Normal weight obesity) 간과** — 체중·BMI 정상이나 체지방 높고 근량 낮음
-- **특정 부위 국소 감량 신화** — 유전적 지방 분포
+- **Judging success/failure from the scale alone**
+- **Overtrusting the absolute value of InBody numbers** — machine·conditions·hydration sensitive
+- **Redesigning your diet from an abnormal reading right after measurement** — a single outlier is possible
+- **Ignoring waist circumference** — one of the cheapest and strongest indicators
+- **Ignoring the menstrual cycle in women** — weekly water fluctuation of ±1~2 kg is common
+- **DEXA every week** — radiation·cost, and not enough time for distinguishable change
+- **Obsession with a "single-digit" body fat % goal** — risks of amenorrhea, hormonal suppression, mental health
+- **Overlooking normal weight obesity** — weight/BMI normal but high body fat and low muscle
+- **The myth of spot reduction** — fat distribution is genetic
 
-## 한계
+## Limitations
 
-1. **측정법 간 불일치** — DEXA와 BIA가 5% 체지방률 차이 흔함
-2. **일일 변동성** — 수분·식사·운동·장 내용물이 BIA 특히 흔듦
-3. **프로토콜 일관성 부족 시 추세 해석 불가**
-4. **근육 분포 불균형** 측정 어려움
-5. **고도비만에서 정확도 하락**
-6. **체성분이 전부는 아님** — 기능(근력·VO2)·바이오마커와 함께 봐야
-7. **"이상적 체지방률" 정의의 주관성** — 심리·건강·경기력 목표 다름
+1. **Inconsistency between methods** — a 5% body fat % gap between DEXA and BIA is common
+2. **Day-to-day variability** — hydration, meals, exercise, gut contents especially sway BIA
+3. **Without protocol consistency, trends cannot be interpreted**
+4. **Uneven muscle distribution** is hard to measure
+5. **Accuracy drops in severe obesity**
+6. **Body composition isn't everything** — must be viewed alongside function (strength, VO2) and biomarkers
+7. **Subjectivity in defining "ideal body fat %"** — psychological, health, and performance goals differ
 
-## 함께 쓰는 것·이 프레임워크가 *틀렸을 때*
+## Companions·When This Framework Is *Wrong*
 
-- 칼로리·단백질 설정 → `macro-tracking`
-- 훈련으로 LBM 증가 → `hypertrophy-volume` · `strength-basics`
-- 심혈관·대사 리스크 종합 → `blood-biomarkers`
-- 감량 속도 조절 → `macro-tracking` + 정기 사진
-- 증량 지방 누적 과다 → `macro-tracking` 적자 리셋
-- 섭식장애 경향 징후 → 전문의 상담 (이 프레임워크 중단)
+- Set calories·protein → `macro-tracking`
+- Increase LBM through training → `hypertrophy-volume` · `strength-basics`
+- Comprehensive cardiovascular·metabolic risk → `blood-biomarkers`
+- Adjust fat-loss rate → `macro-tracking` + regular photos
+- Excess fat accumulation during bulk → reset deficit with `macro-tracking`
+- Signs of disordered-eating tendencies → consult a specialist (discontinue this framework)
 
-## 추가 학습 자료
+## Further Reading
 
-- Heymsfield, S. et al. *Human Body Composition.* (2nd ed.) — 교과서
+- Heymsfield, S. et al. *Human Body Composition.* (2nd ed.) — textbook
 - Kouri, E.M. et al. (1995). "Fat-free mass index in users and nonusers of anabolic-androgenic steroids." *Clinical J Sport Med.*
 - Ashwell, M. et al. (2012). "Waist-to-height ratio is a better screening tool than waist circumference and BMI..." *Obesity Reviews.*
-- Nuckols, G. (StrongerByScience) — 체성분·FFMI 실용 리뷰 다수
-- Trexler, E., Smith-Ryan, A. 체성분 측정 한계 리뷰
+- Nuckols, G. (StrongerByScience) — numerous practical reviews on body composition·FFMI
+- Trexler, E., Smith-Ryan, A. — reviews on the limits of body composition measurement

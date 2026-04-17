@@ -1,211 +1,211 @@
 ---
 name: blood-biomarkers
 version: "0.1.0"
-description: "혈액 바이오마커 해석 — 지질(ApoB·LDL·HDL·TG), 공복혈당·HbA1c, hs-CRP, 갑상선(TSH·FT4), 비타민D·B12·페리틴. 참고범위 vs 최적 범위의 함의. 단발 수치 해석의 함정."
+description: "Blood biomarker interpretation — lipids (ApoB, LDL, HDL, TG), fasting glucose & HbA1c, hs-CRP, thyroid (TSH, FT4), vitamin D, B12, ferritin. Implications of reference range vs optimal range. Pitfalls of single-value interpretation."
 ---
 
 # Blood Biomarkers
 
-## 한 줄 요약
+## One-Line Summary
 
-**혈액 바이오마커는 건강의 레이더.** 단일 수치에 놀라지 말고, **추세·맥락·여러 마커의 조합**으로 해석해라. "정상 범위"와 "최적 범위"는 다르다. **해석과 치료는 의사의 몫이며 이 프레임워크는 사용자 이해·질문 준비용**이다.
+**Blood biomarkers are health radar.** Don't panic over a single value — interpret through **trends, context, and combinations of multiple markers**. "Normal range" and "optimal range" are different. **Interpretation and treatment belong to physicians; this framework is for user understanding and question preparation.**
 
-## 증거 강도
+## Strength of Evidence
 
-- 각 마커의 임상 유의성: **대체로 강함** (주류 가이드라인)
-- ApoB가 LDL-C보다 나은 심혈관 예측: **강함~보통** (당뇨·고중성지방에서 특히)
-- HbA1c로 당뇨 진단·추적: **강함**
-- hs-CRP의 심혈관 예측 부가 가치: **보통**
-- "최적 범위 vs 참고 범위" 주장: **마커별 차이, 일부 보통, 일부 약함**
-- 웰니스 클리닉의 "100+종 패널": **대부분 증거 약함** — 거짓 양성·불안 유발
+- Clinical significance of each marker: **mostly strong** (mainstream guidelines)
+- ApoB outperforming LDL-C for cardiovascular prediction: **strong to moderate** (especially in diabetes and hypertriglyceridemia)
+- HbA1c for diabetes diagnosis and tracking: **strong**
+- Added value of hs-CRP for cardiovascular prediction: **moderate**
+- Claims of "optimal range vs reference range": **varies by marker, some moderate, some weak**
+- Wellness clinic "100+ marker panels": **mostly weak evidence** — false positives, anxiety induction
 
-## 이론·증거 기원
+## Theoretical & Evidence Origins
 
 - **ATP III · 2018 ACC/AHA Cholesterol Guidelines**
-- **ESC/EAS 2019 Dyslipidaemia Guidelines** — ApoB·Lp(a) 강조
-- **ADA Standards of Care** (당뇨 진단·추적)
-- **Peter Attia** — *Outlive* (2023). longevity 관점의 지질·대사 바이오마커 해석
-- **Ridker** — hs-CRP · Lp(a) 연구
-- **USPSTF** 선별검사 권고
+- **ESC/EAS 2019 Dyslipidaemia Guidelines** — emphasizes ApoB and Lp(a)
+- **ADA Standards of Care** (diabetes diagnosis and tracking)
+- **Peter Attia** — *Outlive* (2023). Lipid and metabolic biomarker interpretation from a longevity perspective
+- **Ridker** — hs-CRP and Lp(a) research
+- **USPSTF** screening recommendations
 
-## 핵심 패널
+## Core Panels
 
-### 1. 지질 (Lipid Panel)
+### 1. Lipids (Lipid Panel)
 
-| 마커 | 일반 참고 | 위험도별 목표 (ESC/EAS 2019) | 최적(Attia 등) | 주의 |
+| Marker | General Reference | Risk-Stratified Targets (ESC/EAS 2019) | Optimal (Attia et al.) | Caveats |
 |---|---|---|---|---|
-| **LDL-C** | <130 mg/dL | 저 <116 / 중 <100 / 고 <70 / 초고 <55 | <70~100 | 가족성·당뇨군 |
-| **ApoB** | <90 mg/dL | 중 <100 / 고 <80 / 초고 <65 | <60~80 | LDL보다 강한 예측 |
-| **HDL-C** | >40 남 / >50 여 | — | — | 단독 올리기 개입은 대부분 실패 |
-| **TG (중성지방)** | <150 | <150 | <100 | 공복 채혈 |
-| **Non-HDL-C** | <160 | 중 <130 / 고 <100 / 초고 <85 | <100 | TC - HDL |
-| **Lp(a)** | <50 nmol/L (<30 mg/dL) | — | 최대한 낮게 | **평생 1회 측정 필수**. 유전적 |
+| **LDL-C** | <130 mg/dL | Low <116 / Mod <100 / High <70 / Very High <55 | <70~100 | Familial · diabetic groups |
+| **ApoB** | <90 mg/dL | Mod <100 / High <80 / Very High <65 | <60~80 | Stronger predictor than LDL |
+| **HDL-C** | >40 (M) / >50 (F) | — | — | Interventions to raise HDL alone mostly fail |
+| **TG (Triglycerides)** | <150 | <150 | <100 | Fasting blood draw |
+| **Non-HDL-C** | <160 | Mod <130 / High <100 / Very High <85 | <100 | TC - HDL |
+| **Lp(a)** | <50 nmol/L (<30 mg/dL) | — | As low as possible | **Lifetime once-only measurement essential**. Genetic |
 
-**핵심**: 심혈관 리스크는 ApoB(혹은 LDL-P), 지속 노출 시간, Lp(a)의 조합. LDL-C만으로 결정 금지.
+**Key**: Cardiovascular risk = combination of ApoB (or LDL-P), duration of exposure, and Lp(a). Do not decide on LDL-C alone.
 
-### 2. 혈당·인슐린
+### 2. Glucose & Insulin
 
-| 마커 | 정상 | 전단계 | 당뇨 |
+| Marker | Normal | Pre-stage | Diabetes |
 |---|---|---|---|
-| 공복혈당 | <100 | 100~125 | ≥126 |
+| Fasting Glucose | <100 | 100~125 | ≥126 |
 | **HbA1c** | <5.7% | 5.7~6.4 | ≥6.5 |
-| 공복 인슐린 | <8 μIU/mL 선호 | — | — |
-| HOMA-IR | <1.5 선호 | — | — |
+| Fasting Insulin | <8 μIU/mL preferred | — | — |
+| HOMA-IR | <1.5 preferred | — | — |
 
-**HbA1c**: 지난 2~3개월 평균 혈당. 단일 시점 지표보다 유용.
+**HbA1c**: Average blood glucose over the past 2~3 months. More useful than single time-point indicators.
 
-### 3. 염증·심혈관 부가
+### 3. Inflammation & Cardiovascular Add-ons
 
-- **hs-CRP**: <1 저, 1~3 중, >3 고 (감염·급성 상태에서 일시적 상승)
-- **호모시스테인**: <9 μmol/L 선호
-- **요산**: 대사증후군·통풍과 연관
+- **hs-CRP**: <1 low, 1~3 moderate, >3 high (transient elevation in infection / acute states)
+- **Homocysteine**: <9 μmol/L preferred
+- **Uric acid**: associated with metabolic syndrome and gout
 
-### 4. 갑상선
+### 4. Thyroid
 
-| 마커 | 참고 | 비고 |
+| Marker | Reference | Notes |
 |---|---|---|
-| TSH | 0.4~4.0 mIU/L | 최적 1~2.5 주장 있음 (증거 보통) |
+| TSH | 0.4~4.0 mIU/L | Optimal 1~2.5 claim exists (moderate evidence) |
 | Free T4 | 0.9~1.7 ng/dL | |
 | Free T3 | 2.3~4.2 pg/mL | |
-| anti-TPO | 음성 | 자가면역 갑상선염 |
+| anti-TPO | Negative | Autoimmune thyroiditis |
 
-### 5. 철·빈혈
+### 5. Iron & Anemia
 
-| 마커 | 참고 |
+| Marker | Reference |
 |---|---|
-| 헤모글로빈 | 남 13~17 / 여 12~16 g/dL |
-| 페리틴 | 30~400 (남), 15~200 (여) · 저장철 지표. 운동선수는 <50에서 수행 저하 가능 |
-| TIBC·Transferrin saturation | 20~50% |
+| Hemoglobin | M 13~17 / F 12~16 g/dL |
+| Ferritin | 30~400 (M), 15~200 (F) · storage iron indicator. Athletes may experience performance decline at <50 |
+| TIBC · Transferrin saturation | 20~50% |
 
-### 6. 비타민·무기질
+### 6. Vitamins & Minerals
 
-- **비타민 D (25-OH)**: 30~50 ng/mL 보통 목표 (결핍 <20)
-- **B12**: 200~900 pg/mL. 비건·PPI 복용자 주의
-- **엽산**: 일반 충분
-- **마그네슘** (혈중은 둔감 지표)
+- **Vitamin D (25-OH)**: 30~50 ng/mL is the common target (deficiency <20)
+- **B12**: 200~900 pg/mL. Caution for vegans and PPI users
+- **Folate**: generally sufficient
+- **Magnesium** (serum is an insensitive indicator)
 
-### 7. 신장·간
+### 7. Kidney & Liver
 
 - **eGFR**: >60 mL/min/1.73m²
-- **크레아티닌·요소질소(BUN)**: 근육량 많으면 크레아티닌 높게 보일 수 있음
-- **ALT·AST**: <30~40 선호. 지속 상승 = 지방간·간염 의심
-- **GGT**: 알코올·약물·담도 민감
+- **Creatinine · BUN**: high muscle mass can elevate creatinine readings
+- **ALT · AST**: <30~40 preferred. Persistent elevation = suspect fatty liver or hepatitis
+- **GGT**: sensitive to alcohol, drugs, biliary issues
 
-### 8. 호르몬(선택)
+### 8. Hormones (Optional)
 
-- **총 테스토스테론**(남): 300~1000 ng/dL 참고, 최적 논쟁 중
-- **Free T**, **SHBG** 병행
-- **DHEA-S**, **Cortisol (아침)**, **Estradiol**
-- **여성**: Estradiol·FSH·LH·Progesterone — 생리주기 난포기(3~5일) 기준 측정. 폐경 의심 시 FSH >30 mIU/mL, 에스트라디올 낮음
-- **AMH** (난소 예비력) — 생식 관련일 때
-- **철·페리틴**은 여성(특히 가임기·운동선수)에서 최우선 재확인
-- 증상 있을 때 측정 의미, 무증상 "최적화" 추적은 증거 약함
+- **Total Testosterone** (M): 300~1000 ng/dL reference, optimal range debated
+- **Free T**, **SHBG** measured alongside
+- **DHEA-S**, **Cortisol (morning)**, **Estradiol**
+- **Women**: Estradiol · FSH · LH · Progesterone — measured during follicular phase (days 3~5) of menstrual cycle. If menopause is suspected, FSH >30 mIU/mL with low estradiol
+- **AMH** (ovarian reserve) — when reproduction-related
+- **Iron · ferritin** should be re-prioritized in women (especially reproductive age and athletes)
+- Meaningful when symptoms exist; asymptomatic "optimization" tracking has weak evidence
 
-### 9. 기능적 longevity 지표 (혈액 외)
+### 9. Functional Longevity Markers (Beyond Blood)
 
-혈액 마커만큼 중요하나 혈액검사에 없는 것들:
+Items as important as blood markers but not in blood tests:
 
-- **VO2max** (ml/kg/min) — 심폐체력. 전사망률 예측에서 흡연·당뇨·고혈압보다 강력 (Mandsager 2018, JAMA Netw Open). 연령·성별 대비 percentile이 지표
-- **악력(grip strength)** — 근감소증·전사망률 대리 지표. 스메드ley·조스킨 악력계
-- **보행속도** — 4m 보행 <1.0 m/s는 sarcopenia 경고 (AWGS 2019 컷오프. 이전 EWGSOP·AWGS 2014는 <0.8 m/s였음)
-- **30초 의자 일어서기·SPPB**(short physical performance battery) — 기능 평가
-- **SMI (Skeletal Muscle Index)** — DEXA·BIA에서 사지근량/키². 남 <7.0, 여 <5.7 kg/m² = sarcopenia (AWGS 2019 아시아 기준)
-- **허리둘레·WHtR** — 체중보다 심혈관 예측 강력. `body-composition` 참고
+- **VO2max** (ml/kg/min) — cardiorespiratory fitness. Stronger predictor of all-cause mortality than smoking, diabetes, or hypertension (Mandsager 2018, JAMA Netw Open). Age- and sex-adjusted percentile is the metric
+- **Grip strength** — surrogate for sarcopenia and all-cause mortality. Smedley or Jamar dynamometer
+- **Gait speed** — 4m walk <1.0 m/s is a sarcopenia warning (AWGS 2019 cutoff. Earlier EWGSOP and AWGS 2014 used <0.8 m/s)
+- **30-second chair stand · SPPB** (short physical performance battery) — functional assessment
+- **SMI (Skeletal Muscle Index)** — appendicular muscle mass / height² from DEXA or BIA. M <7.0, F <5.7 kg/m² = sarcopenia (AWGS 2019 Asian criteria)
+- **Waist circumference · WHtR** — stronger cardiovascular predictor than weight. See `body-composition`
 
-## 해석 원칙
+## Interpretation Principles
 
-### 1. 단일 수치 금기
-- 4~8주 간격 반복 후 추세로 판단 (급성기·수분·식이·운동 영향)
+### 1. No Single Values
+- Repeat at 4~8 week intervals and judge by trend (acute phase, hydration, diet, exercise effects)
 
-### 2. 맥락
-- 최근 운동·감염·수면·금식 시간
-- 약물 (스타틴·피임·메트포르민·갑상선제 등)
-- 임신·생리주기
+### 2. Context
+- Recent exercise, infection, sleep, fasting duration
+- Medications (statins, contraceptives, metformin, thyroid drugs, etc.)
+- Pregnancy and menstrual cycle
 
-### 3. "정상 범위" ≠ "최적"
-- 참고범위는 모집단 95% 구간 → 병리 스크리닝 용도
-- Longevity·performance 목표는 더 좁은 구간
+### 3. "Normal Range" ≠ "Optimal"
+- Reference range is the population's 95% interval → for pathology screening
+- Longevity and performance goals require narrower intervals
 
-### 4. 연계 해석
-- ApoB + Lp(a) + HbA1c + hs-CRP → 심혈관 리스크 종합
-- 페리틴 + TSAT + Hb → 철 상태
-- TSH + FT4 + anti-TPO → 갑상선
+### 4. Combined Interpretation
+- ApoB + Lp(a) + HbA1c + hs-CRP → comprehensive cardiovascular risk
+- Ferritin + TSAT + Hb → iron status
+- TSH + FT4 + anti-TPO → thyroid
 
-### 5. 의사 이관 신호
-- LDL/ApoB 급증 또는 Lp(a) 고농도
+### 5. Physician Referral Signals
+- LDL/ApoB sudden rise or high Lp(a)
 - HbA1c ≥5.7
-- TSH <0.4 또는 >4
-- Hb <12 (여) / <13 (남)
-- ALT/AST 지속 >50
+- TSH <0.4 or >4
+- Hb <12 (F) / <13 (M)
+- ALT/AST persistently >50
 - eGFR <60
-- 새로 나타난 이상 + 증상
+- Newly emerging abnormality + symptoms
 
-## 추천 기본 패널 (건강한 성인)
+## Recommended Basic Panel (Healthy Adults)
 
-1. **CBC** (적/백혈구·혈소판)
-2. **CMP** (간·신장·전해질·혈당)
-3. **Lipid panel + ApoB + Lp(a)**(한 번)
-4. **HbA1c + 공복 인슐린**
+1. **CBC** (red/white cells, platelets)
+2. **CMP** (liver, kidney, electrolytes, glucose)
+3. **Lipid panel + ApoB + Lp(a)** (once)
+4. **HbA1c + fasting insulin**
 5. **hs-CRP**
-6. **TSH (+ FT4 증상 시)**
-7. **비타민 D, B12, 페리틴**
-8. **요산**
-9. **(여성)** 가임기: 페리틴·TSAT 우선 / 폐경 의심 시 FSH·에스트라디올
+6. **TSH (+ FT4 if symptomatic)**
+7. **Vitamin D, B12, ferritin**
+8. **Uric acid**
+9. **(Women)** Reproductive age: ferritin · TSAT priority / FSH · estradiol if menopause suspected
 
-주기: 건강한 성인 1~2년, 개입 중이면 3~6개월
+Frequency: healthy adults every 1~2 years; 3~6 months if undergoing intervention
 
-### 약물별 모니터링 추가
+### Drug-Specific Monitoring Additions
 
-| 약물 | 필수 추적 |
+| Drug | Required Tracking |
 |---|---|
-| **스타틴** | LDL·ApoB·ALT·AST·CK (근육통 시) |
-| **메트포르민** | HbA1c·B12 (장기 복용 시 결핍 위험)·eGFR |
-| **GLP-1 agonist (semaglutide·tirzepatide 등)** | HbA1c·체중·허리·LBM(DEXA/BIA)·라이페이스 증상 / 감량 속도 과도 시 LBM 손실 확인 |
-| **경구 피임약** | 지질·혈압·VTE 위험 인자 |
-| **갑상선제 (레보티록신)** | TSH·FT4 |
-| **PPI 장기** | B12·Mg·Ca·페리틴 |
-| **항응고제 (와파린)** | INR (본인 모니터) / 오메가-3 고용량 시 의사 |
-| **이뇨제** | K·Na·Mg·Cr |
+| **Statins** | LDL · ApoB · ALT · AST · CK (if muscle pain) |
+| **Metformin** | HbA1c · B12 (deficiency risk in long-term use) · eGFR |
+| **GLP-1 agonists (semaglutide, tirzepatide, etc.)** | HbA1c · weight · waist · LBM (DEXA/BIA) · lipase symptoms / check LBM loss if weight loss too rapid |
+| **Oral contraceptives** | Lipids · blood pressure · VTE risk factors |
+| **Thyroid medication (levothyroxine)** | TSH · FT4 |
+| **Long-term PPI** | B12 · Mg · Ca · ferritin |
+| **Anticoagulants (warfarin)** | INR (self-monitoring) / consult physician for high-dose omega-3 |
+| **Diuretics** | K · Na · Mg · Cr |
 
-### "CGM(연속혈당측정)" 입장
+### Position on "CGM (Continuous Glucose Monitoring)"
 
-- **적응**: 1형 당뇨, 인슐린 사용 2형, HbA1c 고정체, 급격 혈당 증상
-- **비당뇨인 루틴 사용**: 증거 약함. 혈당 반응은 개인·식품 조합·수면·스트레스에 광범위하게 변하고, "스파이크 최적화"가 심혈관·대사 결과를 개선한다는 RCT는 부족 (Zeevi 2015·Wyatt 2021은 탐색적)
-- **권고**: HbA1c + 공복 인슐린 → HOMA-IR이 먼저. CGM은 2차 도구, 필요하면 2~4주 스팟 체크
+- **Indications**: Type 1 diabetes, insulin-using Type 2, HbA1c plateau, acute glycemic symptoms
+- **Routine use in non-diabetics**: Weak evidence. Glucose response varies widely by individual, food combination, sleep, and stress, and RCTs showing that "spike optimization" improves cardiovascular and metabolic outcomes are lacking (Zeevi 2015 · Wyatt 2021 are exploratory)
+- **Recommendation**: HbA1c + fasting insulin → HOMA-IR first. CGM is a secondary tool; if needed, 2~4 weeks of spot checks
 
-## 안티패턴
+## Anti-Patterns
 
-- **웰니스 클리닉 100종 패널 무분별 신뢰** — 가양성·불안·불필요 후속 검사
-- **단일 수치 공황** — 감염·격한 운동·단식이 하루 이틀 수치를 흔듦
-- **HDL 올리기에 노력 집중** — 약물·개입으로 HDL만 올리는 것은 사망률 개선 실패 (관찰 연관성과 인과 별개)
-- **스타틴 근본 회피** — 공포마케팅. 부작용 빈도·심각성은 많은 경우 이익보다 작음 (의사와 상의)
-- **LDL 대신 TG/HDL 비만 체크하고 만족** — 필요하지만 충분하지 않음
-- **Lp(a)를 한 번도 안 측정** — 평생 한 번은 필수
-- **테스토스테론 마케팅에 끌려 TRT** — 무증상·정상범위에서의 투여는 위험
-- **"detox" 해석** — 검증되지 않은 패널로 공포 마케팅
+- **Indiscriminate trust in wellness clinic 100-marker panels** — false positives, anxiety, unnecessary follow-up tests
+- **Single-value panic** — infection, intense exercise, fasting can shake values for a day or two
+- **Concentrating effort on raising HDL** — drug or intervention-driven HDL elevation alone has failed to improve mortality (observational association ≠ causation)
+- **Fundamentally avoiding statins** — fear marketing. Frequency and severity of side effects are often smaller than benefits (consult physician)
+- **Checking TG/HDL ratio instead of LDL and being satisfied** — necessary but not sufficient
+- **Never measuring Lp(a)** — required at least once in a lifetime
+- **Going on TRT pulled by testosterone marketing** — administration in asymptomatic, normal-range cases is risky
+- **"Detox" interpretation** — fear marketing with unvalidated panels
 
-## 한계
+## Limitations
 
-1. **참고범위의 인구 다양성** — 한국인 기준 vs 서구 기준 차이
-2. **단발 변동성** — 5~15% 일일 변동 흔함
-3. **검사실 편차** — 동일 마커 다른 lab 절대값 차이
-4. **유전·개인차** — Lp(a), LDL 수용체 변이 등
-5. **"최적 범위" 주장의 근거 강도는 마커별로 다름** — 과신 금지
-6. **증상 없는데 계속 추적** = 불안·비용. 선별 주기는 의사와 상의
+1. **Reference range population diversity** — differences between Korean and Western standards
+2. **Single-draw variability** — 5~15% daily variation is common
+3. **Lab variation** — different labs report different absolute values for the same marker
+4. **Genetic and individual differences** — Lp(a), LDL receptor variants, etc.
+5. **Strength of evidence for "optimal range" claims varies by marker** — avoid overconfidence
+6. **Continued tracking without symptoms** = anxiety and cost. Discuss screening intervals with your physician
 
-## 함께 쓰는 것·이 프레임워크가 *틀렸을 때*
+## Use Together With · When This Framework Is *Wrong*
 
-- 개입 식단 → `mediterranean-diet` (심혈관 마커)
-- 혈당·인슐린 개선 → `low-carb-keto` 또는 `intermittent-fasting` (맥락 따라)
-- 체성분 동반 평가 → `body-composition`
-- 훈련 과잉 의심 → `recovery-periodization` (테스토스테론·CK)
-- 수면·스트레스 → `sleep-foundations`
+- Intervention diet → `mediterranean-diet` (cardiovascular markers)
+- Glucose/insulin improvement → `low-carb-keto` or `intermittent-fasting` (depending on context)
+- Concurrent body composition assessment → `body-composition`
+- Suspected overtraining → `recovery-periodization` (testosterone, CK)
+- Sleep and stress → `sleep-foundations`
 
-## 추가 학습 자료
+## Further Learning
 
-- Attia, P. (2023). *Outlive.* (longevity 관점 바이오마커)
+- Attia, P. (2023). *Outlive.* (biomarkers from a longevity perspective)
 - ESC/EAS 2019 Guidelines on Dyslipidaemias.
 - 2018 ACC/AHA Cholesterol Guidelines.
-- ADA Standards of Medical Care in Diabetes (연간 업데이트).
-- Ridker, P.M. "hs-CRP and cardiovascular risk" 다수 논문.
-- Thomas Dayspring 지질학 강의 시리즈.
+- ADA Standards of Medical Care in Diabetes (annual updates).
+- Ridker, P.M. Multiple papers on "hs-CRP and cardiovascular risk."
+- Thomas Dayspring lipidology lecture series.

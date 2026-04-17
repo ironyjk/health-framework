@@ -1,130 +1,130 @@
 ---
 name: low-carb-keto
 version: "0.1.0"
-description: "저탄수·케토제닉 식단 — 탄수화물 극저제한(<50g/일)으로 케토시스 유도. 감량 6개월까지 다른 식단 대비 우위, 이후 수렴. 당뇨·간질·PCOS에서 의학적 근거. 장기 준수율 낮고 지질 반응 개인차 큼."
+description: "Low-carb / ketogenic diet — severely restrict carbohydrates (<50g/day) to induce ketosis. Superior to other diets for weight loss up to 6 months, then converges. Medical evidence in diabetes, epilepsy, and PCOS. Long-term adherence is low and lipid responses vary greatly between individuals."
 ---
 
 # Low-Carb / Ketogenic Diet
 
-## 한 줄 요약
+## One-Line Summary
 
-탄수화물을 **<50g/일(케토)** 또는 **<130g/일(저탄수)**로 제한하여 지방을 주 연료로 쓰게 하는 식단. **단기(3~6개월) 감량·혈당에는 우위**, 장기에는 다른 식단과 수렴.
+A diet that restricts carbohydrates to **<50g/day (keto)** or **<130g/day (low-carb)** to shift the body to using fat as its primary fuel. **Superior for short-term (3–6 months) weight loss and blood sugar control**, but converges with other diets in the long term.
 
-## 증거 강도
+## Evidence Strength
 
-**영역별로 다름**
-- 2형 당뇨·혈당 조절: **강함~보통** (DiRECT·Virta Health 5년 데이터)
-- 단기 감량 (3~6개월): **보통** (수분·글리코겐 소실 포함이긴 함)
-- 간질(약물 난치성 소아): **강함** (의학적 적응증)
-- 장기 감량·심혈관 사망률: **약함 또는 혼재** — LDL·ApoB 상승 개인 많음
-- 인지·수행 능력 향상 주장: **약함**
+**Varies by domain**
+- Type 2 diabetes / glycemic control: **Strong to moderate** (DiRECT, Virta Health 5-year data)
+- Short-term weight loss (3–6 months): **Moderate** (though this includes water and glycogen loss)
+- Epilepsy (drug-resistant pediatric): **Strong** (medical indication)
+- Long-term weight loss / cardiovascular mortality: **Weak or mixed** — many individuals experience elevated LDL/ApoB
+- Claims of improved cognition/performance: **Weak**
 
-## 이론·증거 기원
+## Theoretical / Evidence Origins
 
-- **Banting** (1863) — 초기 임상 사용
-- **Atkins** (1972) — 대중화
-- **Russell Wilder** (1921, Mayo Clinic) — 난치성 간질 치료법 케토제닉
-- **Virta Health / Volek & Phinney** — 2형 당뇨 역전 5년 추적
-- **DiRECT trial** (Lean et al., Lancet 2018) — 저칼로리 기반 당뇨 완화
-- **A to Z trial** (Gardner et al., JAMA 2007) — 여성 Atkins vs Zone vs Ornish vs LEARN 12개월
+- **Banting** (1863) — early clinical use
+- **Atkins** (1972) — popularization
+- **Russell Wilder** (1921, Mayo Clinic) — ketogenic diet as treatment for intractable epilepsy
+- **Virta Health / Volek & Phinney** — 5-year follow-up on type 2 diabetes reversal
+- **DiRECT trial** (Lean et al., Lancet 2018) — low-calorie-based diabetes remission
+- **A to Z trial** (Gardner et al., JAMA 2007) — 12-month comparison of Atkins vs. Zone vs. Ornish vs. LEARN in women
 
-## 핵심 개념
+## Core Concepts
 
-### 1. 케토시스(ketosis)
-- 탄수화물 제한 시 간이 지방산 → 케톤체(β-hydroxybutyrate, acetoacetate) 생성
-- 혈중 BHB 0.5~3.0 mmol/L = 영양 케토시스
-- 당뇨병성 케토산증(DKA, >10 mmol/L)과 **전혀 다름**
+### 1. Ketosis
+- Under carbohydrate restriction, the liver produces ketone bodies (β-hydroxybutyrate, acetoacetate) from fatty acids
+- Blood BHB 0.5–3.0 mmol/L = nutritional ketosis
+- **Entirely different** from diabetic ketoacidosis (DKA, >10 mmol/L)
 
-### 2. 대사적응 (keto-adaptation)
-- 2~6주 걸쳐 조직이 지방·케톤 이용 효율 상승
-- 초기 "keto flu": 두통·피로·근경련·변비 — 보통 수분·전해질(Na·K·Mg) 보충으로 완화
+### 2. Keto-adaptation
+- Over 2–6 weeks, tissues increase their efficiency at using fat and ketones
+- Early "keto flu": headache, fatigue, muscle cramps, constipation — usually relieved by replenishing fluids and electrolytes (Na, K, Mg)
 
-### 3. 매크로 비율 (엄격 케토)
-- 탄수 5~10% (<20~50g net)
-- 단백질 20~25% (과잉 시 포도당신생으로 케토시스 저해 가능)
-- 지방 70~75%
+### 3. Macro Ratios (Strict Keto)
+- Carbs 5–10% (<20–50g net)
+- Protein 20–25% (excess can impair ketosis via gluconeogenesis)
+- Fat 70–75%
 
-### 4. 저탄수 vs 케토 vs 탄수화물 주기화
-- **저탄수(LCHF)**: 50~130g/일. 준수 쉬움
-- **케토**: <50g. 엄격
-- **Targeted / Cyclical**: 운동 전후 탄수 허용, 주 1회 리피드
+### 4. Low-Carb vs. Keto vs. Carb Cycling
+- **Low-carb (LCHF)**: 50–130g/day. Easier adherence
+- **Keto**: <50g. Strict
+- **Targeted / Cyclical**: carbs allowed around training, refeed once weekly
 
-## 언제 쓰나
+## When to Use
 
-- **2형 당뇨·대사증후군·인슐린 저항성** — 혈당·HbA1c 개선 효과 강함
-- **급속한 초기 감량 동기 필요** — 2~4주 수분·체중 빠르게 빠짐
-- **탄수화물에 강한 식욕 유도 반응** — 당질 섭취가 폭식 유발하는 개인
-- **난치성 간질** — 의학적 적응증 (의사 감독)
-- **GLUT1 결핍·특정 희귀 대사질환** (의학적)
-- **PCOS** — 일부 임상 개선 보고
+- **Type 2 diabetes / metabolic syndrome / insulin resistance** — strong effect on blood sugar and HbA1c
+- **Need for rapid initial weight-loss motivation** — water and weight drop quickly in 2–4 weeks
+- **Strong appetite response to carbohydrates** — individuals whose carb intake triggers binge behavior
+- **Intractable epilepsy** — medical indication (under physician supervision)
+- **GLUT1 deficiency / specific rare metabolic disorders** (medical)
+- **PCOS** — some clinical improvement reported
 
-## 대상별 고려
+## Considerations by Population
 
-### 적합한 편
-- 인슐린 저항성·복부비만
-- 위식도역류·편두통 일부 서브그룹
-- 간질 (의학적)
+### Likely Suitable
+- Insulin resistance / abdominal obesity
+- Subgroups with GERD or certain migraine patterns
+- Epilepsy (medical)
 
-### 부적합하거나 주의
-- **지구력 고강도 선수** — 무산소·고강도 수행에서 탄수화물이 여전히 우위
-- **임신·수유** — 데이터 부족
-- **1형 당뇨** — 의사 관리 필수 (저혈당 위험, 케토산증 구분)
-- **SGLT2 억제제 복용자(엠파글리플로진 등)** — 유케톤성 당뇨병성 케토산증 위험 상승. 의사 상의 전 금지
-- **담낭 절제 이력** — 지방 소화 어려움
-- **저체중·섭식장애 경향**
-- **신장 기능 저하자 (CKD stage 3+)** — 단백질 과잉 주의, 의사 관리
-- **가족성 고콜레스테롤혈증·Lp(a) 고농도·LDL 과민반응형** — 케토 시 ApoB 급증 가능 ("Lean Mass Hyper-responder" 포함). 케토 시작 전후 ApoB·LDL 모니터 필수
-- **여성 가임기·저체중**: 저에너지 가용성 RED-S 가속 가능. 엄격 케토보다 50~130g 저탄수가 현실적
-- **PCSK9 inhibitor·고강도 스타틴 복용자** — 지질약 효과 대비 케토 LDL 상승이 상쇄될 수 있음. 의사 상의
+### Unsuitable or Caution Required
+- **Endurance / high-intensity athletes** — carbohydrates still dominate in anaerobic / high-intensity performance
+- **Pregnancy / breastfeeding** — insufficient data
+- **Type 1 diabetes** — requires physician management (hypoglycemia risk, distinguishing ketoacidosis)
+- **Users of SGLT2 inhibitors (empagliflozin, etc.)** — elevated risk of euglycemic diabetic ketoacidosis. Do not start without physician consultation
+- **History of cholecystectomy** — difficulty digesting fat
+- **Underweight / tendency toward eating disorders**
+- **Reduced renal function (CKD stage 3+)** — caution with excess protein; physician management
+- **Familial hypercholesterolemia / high Lp(a) / LDL hyperresponders** — possible sharp ApoB rise on keto (including "Lean Mass Hyper-responders"). ApoB/LDL monitoring essential before and after starting keto
+- **Women of reproductive age / underweight**: may accelerate low energy availability (RED-S). Low-carb at 50–130g is more realistic than strict keto
+- **Users of PCSK9 inhibitors / high-intensity statins** — keto-induced LDL rise may offset medication effect. Consult physician
 
-## 실전 적용
+## Practical Application
 
-### 4주 시작 프로토콜
+### 4-Week Starter Protocol
 ```
-Week 0: 혈액검사(지질·간·신장·HbA1c) 기저 측정
-Week 1: 탄수 <50g/일. 전해질(Na 3~5g, K 3~4g, Mg 300~500mg) 의식적 섭취
-Week 2~3: keto flu 구간. 수분·전해질·수면 우선
-Week 4~6: 대사적응. 수행 회복
-Week 8+: 혈액 재검. LDL·ApoB 급증 시 식단 수정 또는 중단
+Week 0: Baseline blood work (lipids, liver, kidney, HbA1c)
+Week 1: Carbs <50g/day. Conscious electrolyte intake (Na 3–5g, K 3–4g, Mg 300–500mg)
+Week 2–3: Keto flu phase. Prioritize fluids, electrolytes, sleep
+Week 4–6: Metabolic adaptation. Performance recovers
+Week 8+: Re-check blood work. If LDL/ApoB spikes, modify diet or discontinue
 ```
 
-### 식품 리스트
-- **기본**: 달걀·생선·가금·소고기·채소(잎·십자화)·아보카도·올리브오일·견과(저당)·치즈·무가당 유제품
-- **제한**: 쌀·빵·면·감자·과일(베리 소량 허용)·설탕·당함유 음료·콩류 다수
-- **주의 포인트**: "저탄수" 마케팅 가공식품(케토바·케토아이스크림 등)은 준수율 악화
+### Food List
+- **Core**: eggs, fish, poultry, beef, vegetables (leafy, cruciferous), avocado, olive oil, nuts (low-sugar), cheese, unsweetened dairy
+- **Restrict**: rice, bread, noodles, potatoes, fruit (small amounts of berries allowed), sugar, sugar-sweetened beverages, most legumes
+- **Watch out**: "low-carb" marketed processed foods (keto bars, keto ice cream, etc.) worsen adherence
 
-## 안티패턴
+## Anti-Patterns
 
-- **"지방이면 무엇이든 좋다"** — 가공육·튀김·버터커피 과잉 → 심혈관 리스크
-- **전해질 무시** — keto flu 장기화, 근경련, 현기증
-- **단백질 과잉** — 포도당신생으로 케토시스 탈출, 신장 부담
-- **탄수 리바운드 폭식** — 심리·호르몬 변화로 사이클 반복
-- **지질 악화 무시** — LDL·ApoB 50%+ 상승을 "자연스럽다"고 방어 (증거 부족)
-- **6개월 이상 엄격 유지의 일반화** — 대부분 준수율 급락. 저탄수 완화 또는 지중해식 전환이 현실적
-- **"케토가 암을 치료한다" 주장** — 증거 부족. 특정 뇌종양 임상은 진행 중이나 일반화 금지
+- **"All fats are good"** — excess processed meats, fried foods, butter coffee → cardiovascular risk
+- **Ignoring electrolytes** — prolonged keto flu, muscle cramps, dizziness
+- **Excess protein** — gluconeogenesis kicks you out of ketosis, renal burden
+- **Carb rebound binging** — psychological and hormonal shifts drive cycling
+- **Ignoring lipid deterioration** — defending a 50%+ rise in LDL/ApoB as "natural" (no evidence)
+- **Generalizing strict adherence beyond 6 months** — adherence drops steeply for most people. A realistic path is easing into low-carb or transitioning to a Mediterranean pattern
+- **"Keto cures cancer" claims** — insufficient evidence. Trials on specific brain tumors are ongoing but do not generalize
 
-## 한계
+## Limitations
 
-1. **장기 준수율 낮음** — 12개월 시점 탈락률 높음
-2. **지질 반응 개인차** — LDL 무변화/하락 그룹 vs 급증 그룹 모두 존재. ApoB·지단백(a) 모니터링 필수
-3. **사회적 비용** — 회식·외식·가족식 충돌 큼
-4. **고강도 무산소·스프린트 수행 저하** (최소 초기)
-5. **섬유·미량영양소 주의** — 채소·견과·씨앗으로 보충 필요
-6. **장기 사망률 데이터 부족** — 관찰연구 일부는 U자 관계 (극저탄수 사망률 상승) 시사. 인과는 불명
-7. **"기적 식단"으로 마케팅됨** — 대부분 효과는 칼로리 적자·단백질 충분·가공식 감소에서 옴
+1. **Low long-term adherence** — high dropout rate by 12 months
+2. **Individual lipid-response variability** — both "no change / decrease" and "sharp rise" groups exist. ApoB and lipoprotein(a) monitoring essential
+3. **Social cost** — major friction with business dinners, eating out, family meals
+4. **Reduced high-intensity anaerobic / sprint performance** (at least initially)
+5. **Fiber / micronutrients** — require intentional intake from vegetables, nuts, seeds
+6. **Insufficient long-term mortality data** — some observational studies suggest a U-shaped relationship (higher mortality at extreme low-carb). Causation unclear
+7. **Marketed as a "miracle diet"** — most of the effect comes from caloric deficit, sufficient protein, and reduced processed-food intake
 
-## 함께 쓰는 것·이 프레임워크가 *틀렸을 때*
+## What to Combine It With / When This Framework Is *Wrong*
 
-- 지속 가능한 배경 식단 → `mediterranean-diet`
-- 칼로리·단백질 구조화 → `macro-tracking`
-- 지질·혈당 모니터링 → `blood-biomarkers` (**필수 동반**)
-- 간헐적 실행 구조 → `intermittent-fasting`
-- 고강도·지구력 훈련 동반 시 → `polarized-endurance` + 탄수 주기화 고려
+- Sustainable background pattern → `mediterranean-diet`
+- Structured calorie and protein tracking → `macro-tracking`
+- Lipid and glucose monitoring → `blood-biomarkers` (**essential companion**)
+- Intermittent execution structure → `intermittent-fasting`
+- When paired with high-intensity / endurance training → `polarized-endurance` plus carb cycling
 
-## 추가 학습 자료
+## Further Reading
 
 - Volek, J. & Phinney, S. (2011). *The Art and Science of Low Carbohydrate Living.*
 - Hallberg, S. et al. (2018). "Effectiveness and Safety of a Novel Care Model for the Management of Type 2 Diabetes at 1 Year." *Diabetes Therapy.* (Virta)
 - Lean, M. et al. (2018). "Primary care-led weight management for remission of type 2 diabetes (DiRECT)." *Lancet.*
 - Gardner, C.D. et al. (2007). "Comparison of the Atkins, Zone, Ornish, and LEARN Diets." *JAMA.*
-- Ludwig, D. (2018). *Always Hungry?* (carbohydrate-insulin hypothesis 해설, 비판적 리뷰와 함께 읽을 것)
+- Ludwig, D. (2018). *Always Hungry?* (exposition of the carbohydrate-insulin hypothesis; read alongside critical reviews)

@@ -1,210 +1,210 @@
 ---
 name: strength-basics
 version: "0.1.0"
-description: "근력 기초 프로그램 — 복합운동(스쿼트·데드·벤치·오버헤드·로우) 저반복·고중량 중심. 5x5, 5/3/1, Starting Strength, StrongLifts, Texas Method. 초~중급자 근력 증가의 가장 효율적인 루트."
+description: "Strength fundamentals program — compound lifts (squat, deadlift, bench, overhead press, row) with low-rep, high-load focus. 5x5, 5/3/1, Starting Strength, StrongLifts, Texas Method. The most efficient route to strength gains for beginners to intermediates."
 ---
 
 # Strength Basics
 
-## 한 줄 요약
+## One-Line Summary
 
-**복합 바벨 운동 + 저반복(1~5) + 주 2~4회 + 점진적 중량 증가.** 모든 유명 근력 프로그램은 이 구조의 변주다. 초·중급자가 근력을 얻는 가장 빠른 길.
+**Compound barbell lifts + low reps (1–5) + 2–4 sessions per week + progressive load increase.** Every famous strength program is a variation of this structure. The fastest path to strength for beginners and intermediates.
 
-## 증거 강도
+## Evidence Strength
 
-**강함**. 복합 운동·저반복 근력 훈련의 신경 적응·근력 증가 효과는 수십 년 문헌 축적.
+**Strong.** Decades of literature document the neural adaptation and strength gains from compound, low-rep strength training.
 
-## 이론·증거 기원
+## Theoretical and Evidentiary Origins
 
-- **Bill Starr** — *The Strongest Shall Survive* (1976). 5x5의 원형
-- **Mark Rippetoe** — *Starting Strength* (2005). 선형 초보자 프로그램 표준
-- **Jim Wendler** — *5/3/1* (2009). 중·고급자용 파동형
-- **Glenn Pendlay · Mark Bell · Reg Park** 계보
-- **Zatsiorsky** — 근력 개발 3원칙: Maximal Effort, Dynamic Effort, Repeated Effort
+- **Bill Starr** — *The Strongest Shall Survive* (1976). The prototype of 5x5
+- **Mark Rippetoe** — *Starting Strength* (2005). The standard linear novice program
+- **Jim Wendler** — *5/3/1* (2009). Wave-style program for intermediate and advanced lifters
+- **Glenn Pendlay · Mark Bell · Reg Park** lineage
+- **Zatsiorsky** — Three principles of strength development: Maximal Effort, Dynamic Effort, Repeated Effort
 
-## 핵심 복합 운동 (Big Lifts)
+## Core Compound Lifts (Big Lifts)
 
-1. **백 스쿼트** — 전신 하체·체간
-2. **데드리프트** — 후면 체인
-3. **벤치 프레스** — 상체 수평 밀기
-4. **오버헤드 프레스** (밀리터리 프레스) — 수직 밀기
-5. **바벨 로우 / 친업** — 수평·수직 당기기
-6. (선택) 파워 클린 · 프론트 스쿼트
+1. **Back Squat** — whole-body lower-body and trunk
+2. **Deadlift** — posterior chain
+3. **Bench Press** — upper-body horizontal push
+4. **Overhead Press** (Military Press) — vertical push
+5. **Barbell Row / Chin-up** — horizontal and vertical pull
+6. (Optional) Power Clean · Front Squat
 
-## 핵심 프로그램 스냅샷
+## Snapshot of Core Programs
 
 ### Starting Strength (Rippetoe)
 ```
-A일: 스쿼트 3x5, 벤치 3x5, 데드 1x5
-B일: 스쿼트 3x5, 프레스 3x5, 데드 1x5 (또는 파워클린 5x3)
-주 3회 A·B·A → B·A·B 교차
-세션마다 +2.5kg (하체 +5kg)
+Day A: Squat 3x5, Bench 3x5, Deadlift 1x5
+Day B: Squat 3x5, Press 3x5, Deadlift 1x5 (or Power Clean 5x3)
+3 sessions/week, alternating A·B·A → B·A·B
++2.5 kg per session (+5 kg for lower body)
 ```
-대상: 절대 초보자, 6~20주
+Target: absolute beginners, 6–20 weeks
 
 ### StrongLifts 5x5
 ```
-A: 스쿼트 5x5, 벤치 5x5, 바벨로우 5x5
-B: 스쿼트 5x5, 프레스 5x5, 데드 1x5
+A: Squat 5x5, Bench 5x5, Barbell Row 5x5
+B: Squat 5x5, Press 5x5, Deadlift 1x5
 ```
-Starting Strength 대비 로우 포함, 세트 더 많음
+Includes row and more sets than Starting Strength
 
-### Wendler 5/3/1 (중급)
+### Wendler 5/3/1 (Intermediate)
 ```
-1사이클 = 4주
-Training Max(TM) = 1RM × 90%
+1 cycle = 4 weeks
+Training Max (TM) = 1RM × 90%
 W1: 5/5/5+ @65/75/85% TM
 W2: 3/3/3+ @70/80/90%
 W3: 5/3/1+ @75/85/95%
 W4: deload 5/5/5 @40/50/60%
-사이클 종료 시 상체 TM +2.5kg, 하체 +5kg
-보조운동: BBB, FSL, Triumvirate 등
+At cycle end: upper TM +2.5 kg, lower TM +5 kg
+Accessories: BBB, FSL, Triumvirate, etc.
 ```
 
-### Texas Method (초→중 전환)
+### Texas Method (Novice → Intermediate Transition)
 ```
-월: 볼륨 데이 5x5 @90% of 5RM
-수: 리커버리 80%
-금: PR (intensity day) 5x1 or 3x3
+Mon: Volume day 5x5 @90% of 5RM
+Wed: Recovery 80%
+Fri: PR (intensity day) 5x1 or 3x3
 ```
 
 ### Greyskull LP
 ```
-업퍼데이·로어데이 교차
-2x5, 1x5+ (마지막 세트 AMRAP)
-실패 시 micro load
+Alternating upper and lower days
+2x5, 1x5+ (last set AMRAP)
+Micro load on failure
 ```
 
-## 언제 쓰나
+## When to Use
 
-- **절대 근력(1RM) 증가**가 최우선 목표
-- **처음 1~3년 훈련자** — 최대 수혜 구간
-- **중년 이후 근감소 예방**
-- **스포츠 퍼포먼스 기초 체력**
-- **시간이 제한적**이면서 강한 자극 필요
+- **Absolute strength (1RM) gains** are the top priority
+- **First 1–3 years of training** — the window of maximum benefit
+- **Sarcopenia prevention in middle age and beyond**
+- **Base physical capacity for sports performance**
+- **Limited time** but need for a strong stimulus
 
-## 프로그램 선택 의사결정
-
-```
-1. 훈련 경력?
-   < 6개월  → Starting Strength / Greyskull
-   6~24개월 → Texas Method / 5/3/1 BBB
-   24개월+  → 5/3/1 Forever · 블록 주기화
-2. 주 세션 가능?
-   3회 → SS · 5/3/1 3-day
-   4회 → 5/3/1 4-day · PHUL
-3. 보조목표 (근비대·컨디셔닝)?
-   근비대 병행 → 5/3/1 BBB 또는 hypertrophy-volume 합침
-```
-
-## 실전 체크리스트
-
-### 기술이 먼저다
-- 처음 4~8주는 70% 미만 중량으로 **폼 고정**
-- 영상 촬영 필수 (측면·후면)
-- 스쿼트 깊이(parallel 이하), 데드 허리 중립, 벤치 스캡 세팅, 프레스 코어 잠금
-
-### 웜업
-- 빈바 → 50% → 70% → 85% → 워킹세트
-- 각 세트 2~5 rep
-
-### 식이 동반
-- 증량 시: `macro-tracking` +100~300 kcal, 단백질 1.6~2.0 g/kg
-- 유지에서 근력 증가는 가능하나 속도 느림
-
-### 수면·회복
-- 7~9h. 근력 프로그램에서 수면 부족은 "다음 세트 -5kg"
-- 주 1회 deload 또는 프로그램별 data 존중
-
-## 안티패턴
-
-- **너무 빨리 고급 프로그램으로 점프** — Sheiko·Smolov를 3개월 차에 하지 마라
-- **보조운동으로 메인 대체** — 머신·케이블만 하면 이 프레임워크가 아니다
-- **AMRAP 매일** — 중추신경 피로 누적
-- **장비(벨트·스트랩·슈트) 조기 의존** — 기초 체간 약해짐
-- **맞지 않는 체형에 폼 고집** — 개인 레버리지 무시 (예: 긴 대퇴+짧은 몸통에 하이바 스쿼트 강요)
-- **프로그램 호핑** — 3주마다 바꾸면 아무 프로그램도 평가 불가
-- **데일로드 스킵**
-- **중량 증가에만 집중, 폼 퇴화** — 부상 경로
-- **고혈압자에 발살바 최대 1RM 시도** — 혈압 급등. RPE 7~8 / RIR 2~3으로 작업
-- **"스쿼트는 무릎을 망친다" 신화** — 기술·부하 관리 문제. 건강한 무릎의 스쿼트는 관절 건강에 이득
-- **여성에게 저중량 고반복만** — 근력·근비대 자극 부족. 남녀 프로그램 구조 동일
-
-## 부상 후 복귀 로딩 규칙
-
-의료 클리어런스 후 점진 복귀 템플릿:
+## Program Selection Decision Tree
 
 ```
-Phase 1 (1~2주): 통증 없이 ROM 확보. 저항 = 체중·밴드·<30% 1RM
-Phase 2 (3~4주): 50~60% 1RM, RIR 4+, 세트당 10~12 rep. 통증 NRS <3 유지
-Phase 3 (5~8주): 70~80% 1RM 복귀. 볼륨 점진 정상화. RIR 2~3
-Phase 4 (8~12주): 이전 워킹 중량 복귀. 1RM 테스트는 최소 12주 이후
+1. Training history?
+   < 6 months  → Starting Strength / Greyskull
+   6–24 months → Texas Method / 5/3/1 BBB
+   24+ months  → 5/3/1 Forever · block periodization
+2. Sessions per week available?
+   3 → SS · 5/3/1 3-day
+   4 → 5/3/1 4-day · PHUL
+3. Secondary goals (hypertrophy, conditioning)?
+   Hypertrophy alongside → 5/3/1 BBB or add hypertrophy-volume
 ```
 
-**규칙**:
-- 단일 규칙 — 세션 중·다음날 통증 NRS ≥4면 volume -20~30%
-- 재발 시 2 phase 후퇴
-- 통증은 신호이지 약함의 증거가 아니다. 무시하고 밀어붙이면 만성화
+## Practical Checklist
 
-## 고혈압자 저항운동 프로토콜
+### Technique Comes First
+- Spend the first 4–8 weeks at under 70% load to **lock in form**
+- Video recording is mandatory (side and rear angles)
+- Squat depth (at or below parallel), neutral spine on deadlift, scap setup on bench, core braced on press
 
-- **세션 전 혈압 측정 습관화** (수동·전자 기기)
-- 수축기 ≥160 또는 이완기 ≥100 → 세션 연기
-- 1RM 테스트·AMRAP·무거운 발살바 지양
-- **RPE 7~8 / RIR 2~3** 범위 고정
-- 세트 간 휴식 2~3분 이상
-- 호흡: 상승 국면에서 내쉬고 내려올 때 들이마시기 (발살바 최소화)
-- 머리 아래 포지션 장시간 지양 (inverted rows의 원래 버전 등)
+### Warm-up
+- Empty bar → 50% → 70% → 85% → working sets
+- 2–5 reps per set
 
-## 종목 대체 (부상·해부학 제약)
+### Pair with Diet
+- When bulking: `macro-tracking` +100–300 kcal, 1.6–2.0 g/kg protein
+- Strength gains at maintenance are possible but slow
 
-| 제약 | 대체 | 주의 |
+### Sleep and Recovery
+- 7–9h. Sleep deprivation on a strength program means "next set −5 kg"
+- Deload 1x/week or respect program-specific data
+
+## Antipatterns
+
+- **Jumping to advanced programs too quickly** — don't run Sheiko or Smolov in month 3
+- **Replacing main lifts with accessories** — if it's only machines and cables, it's not this framework
+- **AMRAP every day** — central nervous system fatigue accumulates
+- **Early dependency on gear (belt, straps, suit)** — weakens the base trunk
+- **Forcing form that doesn't fit your body** — ignoring individual leverages (e.g., forcing high-bar squat on long femurs + short torso)
+- **Program hopping** — switching every 3 weeks makes no program evaluable
+- **Skipping deloads**
+- **Focus only on load increase with form degradation** — path to injury
+- **Attempting max 1RM with Valsalva in hypertensives** — BP spike. Work at RPE 7–8 / RIR 2–3
+- **"Squats ruin the knees" myth** — this is a technique and load management issue. Squats on healthy knees benefit joint health
+- **Only light weight + high reps for women** — insufficient strength and hypertrophy stimulus. Program structure is identical for men and women
+
+## Return-to-Lifting Loading Rules After Injury
+
+Progressive return template after medical clearance:
+
+```
+Phase 1 (weeks 1–2): Establish pain-free ROM. Resistance = bodyweight, bands, <30% 1RM
+Phase 2 (weeks 3–4): 50–60% 1RM, RIR 4+, 10–12 reps per set. Keep pain NRS <3
+Phase 3 (weeks 5–8): Return to 70–80% 1RM. Progressively normalize volume. RIR 2–3
+Phase 4 (weeks 8–12): Return to previous working loads. 1RM testing only after 12+ weeks
+```
+
+**Rules**:
+- Single rule — if pain during session or next day is NRS ≥4, reduce volume by 20–30%
+- On relapse, back off 2 phases
+- Pain is a signal, not evidence of weakness. Ignoring and pushing through leads to chronicity
+
+## Resistance Training Protocol for Hypertensives
+
+- **Measure BP before the session** (manual or electronic device)
+- Systolic ≥160 or diastolic ≥100 → postpone session
+- Avoid 1RM testing, AMRAP, and heavy Valsalva
+- **Fixed at RPE 7–8 / RIR 2–3**
+- Rest 2–3+ minutes between sets
+- Breathing: exhale on the concentric and inhale on the eccentric (minimize Valsalva)
+- Avoid prolonged head-below positions (e.g., original version of inverted rows)
+
+## Exercise Substitutions (Injury, Anatomical Constraints)
+
+| Constraint | Substitute | Notes |
 |---|---|---|
-| **목 디스크·경추** | 백스쿼트 → **트랩바/고블릿/프론트 스쿼트**. 오버헤드 프레스 → 랜드마인 프레스·시티드 덤벨(중립 그립) | 바벨이 승모근 누르는 압 회피 |
-| **허리 디스크·요추** | 컨벤셔널 데드 → **트랩바/루마니안/랙풀**. 백스쿼트 → 고블릿/레그프레스 | 풀 ROM 플렉션 초반 피함 |
-| **어깨 충돌** | 바벨벤치 → **덤벨벤치(중립)·푸시업·플로어 프레스**. 오버헤드 → 랜드마인·랜드마인 란드마인 | 스캡 움직임 유지 |
-| **무릎 연골·슬개** | 딥스쿼트 → **박스 스쿼트·레그프레스·런지 감소 ROM** | 전경각 각도 조정 |
-| **손목 가동성** | 프론트 스쿼트(크로스 그립)·고블릿 | 스트랩 활용 |
-| **고령·관절염** | 바벨 → 덤벨·기계 혼합 가능. 가동범위 타협 허용 | 반복 횟수 8~12으로 |
+| **Neck disc / cervical issue** | Back squat → **trap bar / goblet / front squat**. Overhead press → landmine press, seated dumbbell (neutral grip) | Avoid barbell compressing the trapezius |
+| **Lumbar disc / low back** | Conventional deadlift → **trap bar / Romanian / rack pull**. Back squat → goblet / leg press | Avoid full ROM flexion early on |
+| **Shoulder impingement** | Barbell bench → **dumbbell bench (neutral), push-ups, floor press**. Overhead → landmine | Maintain scapular movement |
+| **Knee cartilage / patella** | Deep squat → **box squat, leg press, lunges with reduced ROM** | Adjust shin angle |
+| **Wrist mobility** | Front squat (cross grip), goblet | Use straps |
+| **Elderly / arthritic** | Barbell → mix with dumbbells and machines acceptable. ROM compromise permitted | 8–12 reps |
 
-## 고령(65세+) 근력 훈련 특례
+## Special Considerations for Older Adults (65+) Strength Training
 
-- **증거 매우 강함** — 고령 저항훈련은 근감소·낙상·사망률 감소 (Fragala 2019 NSCA 포지션)
-- **주 2~3회** 모든 주요 근군 대상
-- **강도**: 70~85% 1RM 또는 RPE 7~8 (RIR 2~3)
-- **단백질**: 1.2~1.6 g/kg (근단백합성 저항)
-- **balance·보행 훈련 포함** — Tai Chi·한발서기·sit-to-stand
-- **비타민 D·칼슘** 병행 (골절 예방 메타분석)
-- 모든 프로그램 의료 스크리닝 후 시작
+- **Evidence very strong** — resistance training in older adults reduces sarcopenia, falls, and mortality (Fragala 2019 NSCA position)
+- **2–3 sessions/week** targeting all major muscle groups
+- **Intensity**: 70–85% 1RM or RPE 7–8 (RIR 2–3)
+- **Protein**: 1.2–1.6 g/kg (muscle protein synthesis resistance)
+- **Include balance and gait training** — Tai Chi, single-leg stance, sit-to-stand
+- **Vitamin D and calcium** alongside (fracture-prevention meta-analyses)
+- Begin any program after medical screening
 
-## 여성 특례
+## Special Considerations for Women
 
-- **남녀 저항훈련 반응은 근본적으로 동일**, 절대 중량은 다름. "여성은 달라서 고반복만" 신화
-- **생리주기 고려 (선택)**: 황체기(생리 전 5~7일) 체온·RPE 상승 → 볼륨 -10~20% 또는 강도 유지하되 RIR 여유. 난포기 PR 시도 유리. 증거 중간, 개인차 큼
-- **폐경기·폐경 후**: 근감소·골밀도 급락 구간. **저항훈련 중요도 오히려 상승**. 1.2~1.6 g/kg 단백질, 칼슘·비타민 D
-- **RED-S 경고**: 3개월+ 무월경·피로·피로골절 반복 = 훈련·영양 재평가 (Mountjoy 2018 IOC)
+- **Men's and women's resistance training responses are fundamentally identical**, absolute loads differ. The "women are different, so high reps only" myth
+- **Cycle considerations (optional)**: luteal phase (5–7 days pre-menses) brings elevated body temperature and RPE → reduce volume 10–20% or keep intensity with extra RIR. Follicular phase favors PR attempts. Evidence is moderate with large individual variation
+- **Menopause and postmenopause**: window of rapid sarcopenia and BMD decline. **Resistance training importance actually rises.** 1.2–1.6 g/kg protein, calcium, vitamin D
+- **RED-S warning**: 3+ months of amenorrhea, fatigue, or recurrent stress fractures = reassess training and nutrition (Mountjoy 2018 IOC)
 
-## 한계
+## Limitations
 
-1. **근비대엔 덜 효율적** — 저반복만으론 총 볼륨 부족. `hypertrophy-volume` 병행 필요
-2. **관절·결합조직 적응이 신경 적응을 못 따라옴** — 부상 리스크
-3. **초보자 선형은 3~9개월 내 종료** — 이후엔 더 정교한 구조 필요
-4. **지구력·심혈관엔 직접 기여 약함** — 별도 `polarized-endurance`
-5. **부상 이력자·노인·청소년은 수정 필요** (위 대체 표 참고)
-6. **1RM 테스트 자주 하면 손해** — 4~12주 간격. **Epley 공식**으로 추정: `1RM ≈ 무게 × (1 + 반복/30)`
+1. **Less efficient for hypertrophy** — low reps alone under-deliver total volume. Combine with `hypertrophy-volume`
+2. **Joint and connective tissue adaptations lag behind neural adaptations** — injury risk
+3. **Novice linear progression ends within 3–9 months** — more sophisticated structure is needed afterward
+4. **Weak direct contribution to endurance or cardiovascular capacity** — separate `polarized-endurance`
+5. **Requires modification for those with injury history, seniors, adolescents** (see substitution table above)
+6. **Frequent 1RM testing is counterproductive** — 4–12 week intervals. Estimate via the **Epley formula**: `1RM ≈ weight × (1 + reps/30)`
 
-## 함께 쓰는 것·이 프레임워크가 *틀렸을 때*
+## Companion Tools · When This Framework Is *Wrong*
 
-- 과부하 원리 이해 → `progressive-overload`
-- 근비대 병행 → `hypertrophy-volume`
-- 회복·deload 설계 → `recovery-periodization`
-- 식이 지원 → `macro-tracking`
-- 지구력 병행 → `polarized-endurance` (주 2회 Z2는 근력과 상충 적음)
+- Understanding overload principle → `progressive-overload`
+- Combining hypertrophy → `hypertrophy-volume`
+- Recovery and deload design → `recovery-periodization`
+- Dietary support → `macro-tracking`
+- Combining endurance → `polarized-endurance` (2x/week Z2 conflicts little with strength)
 
-## 추가 학습 자료
+## Further Learning Resources
 
 - Rippetoe, M. *Starting Strength* (3rd ed.)
 - Wendler, J. *5/3/1 Forever.*
 - Rippetoe, M. & Baker, A. *Practical Programming for Strength Training.*
 - Zatsiorsky, V., Kraemer, W. *Science and Practice of Strength Training.*
-- Starting Strength Wiki · Barbell Medicine 팟캐스트
+- Starting Strength Wiki · Barbell Medicine podcast

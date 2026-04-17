@@ -1,154 +1,154 @@
 ---
 name: macro-tracking
 version: "0.1.0"
-description: "매크로 트래킹 — 총칼로리(에너지 수지) + 단백질(1.6~2.2 g/kg) 우선, 탄수·지방은 목적·선호에 따라 배분. 감량·증량·체성분 재구성의 공통 엔진. 'if it fits your macros(IIFYM)'의 올바른 사용."
+description: "Macro tracking — prioritize total calories (energy balance) + protein (1.6–2.2 g/kg), with carbs and fats allocated by goal and preference. The common engine for cutting, bulking, and body recomposition. The correct use of 'if it fits your macros' (IIFYM)."
 ---
 
 # Macro Tracking
 
-## 한 줄 요약
+## One-Line Summary
 
-**에너지 수지(calories in vs out)가 체중의 1차 법칙, 단백질이 체성분의 1차 법칙.** 탄수·지방은 목적·선호·훈련 강도에 맞춰 배분한다. 이 순서를 바꾸면 대부분 실패한다.
+**Energy balance (calories in vs out) is the first law of body weight; protein is the first law of body composition.** Carbs and fats are allocated according to goals, preferences, and training intensity. Reversing this order leads to failure in most cases.
 
-## 증거 강도
+## Strength of Evidence
 
-- 에너지 수지와 체중 변화: **매우 강함** (Hall et al. NIH 메타연구)
-- 단백질 1.6~2.2 g/kg가 근단백 합성·근유지에 유효: **강함** (Morton 2018 메타)
-- 끼니당 0.4 g/kg 분산: **보통**
-- 탄수 vs 지방 비율의 감량 효과 차이: **약함** (A to Z, DIETFITS: 단백질·칼로리 맞추면 유의차 없음)
-- IIFYM(매크로만 맞으면 식품질 무관): **약함** (미량영양·섬유·포만감 차이 존재)
+- Energy balance and weight change: **very strong** (Hall et al. NIH meta-research)
+- Protein at 1.6–2.2 g/kg for muscle protein synthesis and muscle retention: **strong** (Morton 2018 meta)
+- Distribution of 0.4 g/kg per meal: **moderate**
+- Difference in cutting effectiveness between carb vs fat ratios: **weak** (A to Z, DIETFITS: no significant difference when protein and calories are matched)
+- IIFYM (only macros matter, food quality irrelevant): **weak** (differences exist in micronutrients, fiber, satiety)
 
-## 이론·증거 기원
+## Origin of Theory and Evidence
 
-- **Kevin Hall (NIH)** — 에너지 수지 대사실험 다수. "칼로리-인슐린 가설" 반박 연구 포함
-- **Morton et al. (2018)** *Br J Sports Med* — 단백질 보충 메타분석. 근력·제지방량 이득 상한 ~1.62 g/kg
-- **DIETFITS (Gardner 2018, JAMA)** — 저지방 vs 저탄수 12개월 비교. 단백질·칼로리 맞추면 차이 없음
-- **Helms et al.** — Natural Bodybuilding 증거 리뷰. 감량 시 단백질 2.3~3.1 g/kg LBM
+- **Kevin Hall (NIH)** — numerous metabolic ward experiments on energy balance. Includes research refuting the "calorie-insulin hypothesis"
+- **Morton et al. (2018)** *Br J Sports Med* — meta-analysis of protein supplementation. Upper limit of gains in strength and lean mass at ~1.62 g/kg
+- **DIETFITS (Gardner 2018, JAMA)** — 12-month comparison of low-fat vs low-carb. No difference when protein and calories are matched
+- **Helms et al.** — Natural Bodybuilding evidence review. Protein 2.3–3.1 g/kg LBM during cutting
 
-## 핵심 개념
+## Core Concepts
 
-### 1. 피라미드 (Eric Helms)
+### 1. Pyramid (Eric Helms)
 ```
-Tier 1 (가장 중요): 총칼로리
-Tier 2         : 단백질 · 매크로 비율
-Tier 3         : 미량영양·섬유·식품 질
-Tier 4         : 식사 타이밍·빈도
-Tier 5         : 보조제
+Tier 1 (most important): Total calories
+Tier 2                 : Protein · Macro ratios
+Tier 3                 : Micronutrients · Fiber · Food quality
+Tier 4                 : Meal timing · Frequency
+Tier 5                 : Supplements
 ```
-시간·에너지는 위에서 아래 순으로 투자한다.
+Invest time and energy from top to bottom.
 
-### 2. 칼로리 추정
-- **BMR** (Mifflin-St Jeor): 남 `10W + 6.25H - 5A + 5`, 여 `-161` 대체
-- **TDEE** = BMR × 활동계수(1.2~1.9)
-- **추정은 시작점일 뿐** — 2주 체중 추이로 보정
+### 2. Calorie Estimation
+- **BMR** (Mifflin-St Jeor): Male `10W + 6.25H - 5A + 5`, Female substitute with `-161`
+- **TDEE** = BMR × activity factor (1.2–1.9)
+- **Estimates are only a starting point** — calibrate with 2-week weight trend
 
-### 3. 감량·유지·증량 타깃
-- **감량**: TDEE -10~25% (주 0.5~1% 체중 감소)
-- **유지**: TDEE ±0
-- **증량**: TDEE +5~15% (주 0.25~0.5% 체중 증가, 초보자·재개자 예외)
+### 3. Cut · Maintenance · Bulk Targets
+- **Cut**: TDEE -10~25% (0.5–1% body weight loss per week)
+- **Maintenance**: TDEE ±0
+- **Bulk**: TDEE +5~15% (0.25–0.5% body weight gain per week, exceptions for beginners and returnees)
 
-### 4. 단백질 (가장 중요한 매크로)
-- **일반 성인**: 1.6~2.2 g/kg/일
-- **감량 중**: 2.0~2.4 g/kg (근손실 방지)
-- **극저체지방 목표 시**: 2.3~3.1 g/kg LBM
-- **선수·고강도 훈련**: 1.8~2.4 g/kg
-- **고령(65세+)**: **1.2~1.6 g/kg** — 근감소 예방 (ESPEN PROT-AGE 2013, Bauer 2013). "RDA 0.8 g/kg는 노인 최소 생존치이지 최적 아님"
-- **여성 폐경기**: 1.2~1.6 g/kg, 칼슘 1,200 mg + 비타민 D 800~2000 IU 병행 (골밀도)
-- **GLP-1 복용자**: 최소 1.2 g/kg (포만감 급증으로 과소 섭취 흔함 — LBM 방어를 위해 의식적 확보)
-- **끼니당**: 0.4 g/kg (체중 70kg → 28g/끼니), 3~5회 분산. 끼니 간 3~5h
-- **신장 정상인은 상한 걱정 불필요**: Jäger 2017 ISSN Protein Position (JISSN), Devries 2018 J Nutr 메타 — 단백질 고섭취로 신기능 악화 증거 없음. **CKD·단일신·기존 신장 질환자는 예외, 의사 관리**
+### 4. Protein (Most Important Macro)
+- **General adults**: 1.6–2.2 g/kg/day
+- **During cutting**: 2.0–2.4 g/kg (to prevent muscle loss)
+- **When targeting very low body fat**: 2.3–3.1 g/kg LBM
+- **Athletes · high-intensity training**: 1.8–2.4 g/kg
+- **Elderly (65+)**: **1.2–1.6 g/kg** — prevention of sarcopenia (ESPEN PROT-AGE 2013, Bauer 2013). "RDA 0.8 g/kg is the minimum survival threshold for the elderly, not optimal"
+- **Menopausal women**: 1.2–1.6 g/kg, combined with calcium 1,200 mg + vitamin D 800–2000 IU (bone density)
+- **GLP-1 users**: at least 1.2 g/kg (under-consumption is common due to surge in satiety — deliberate intake required to defend LBM)
+- **Per meal**: 0.4 g/kg (body weight 70 kg → 28 g/meal), split across 3–5 meals. 3–5 h between meals
+- **No need to worry about upper limits for those with normal kidney function**: Jäger 2017 ISSN Protein Position (JISSN), Devries 2018 J Nutr meta — no evidence that high protein intake impairs kidney function. **Exceptions for CKD, single-kidney patients, and those with pre-existing kidney disease — physician management required**
 
-### 5. 지방
-- 최소 **0.6~0.8 g/kg** (호르몬·흡수)
-- 포화지방 < 10% 칼로리 (심혈관 휴리스틱)
+### 5. Fat
+- Minimum **0.6–0.8 g/kg** (hormones · absorption)
+- Saturated fat < 10% of calories (cardiovascular heuristic)
 
-### 6. 탄수화물
-- 잔량 배분
-- 훈련량·강도·종목 따라 3~8+ g/kg/일
-- **훈련 전후에 우선 배치** (수행·회복)
+### 6. Carbohydrates
+- Allocate the remainder
+- 3–8+ g/kg/day depending on training volume, intensity, and sport
+- **Prioritize placement around training** (performance · recovery)
 
-### 7. 섬유
-- 25~38 g/일
-- 포만감·장내세균·LDL·혈당에 영향
+### 7. Fiber
+- 25–38 g/day
+- Affects satiety, gut microbiota, LDL, blood glucose
 
-## 언제 쓰나
+## When to Use
 
-- **체중 목표가 있을 때** (감량·증량·유지)
-- **체성분 재구성** (감량 중 근유지·신규자 근증량)
-- **훈련 성과가 안 나와서 식단 점검 필요**
-- **정체기 탈출** — 칼로리·단백질 재설정
-- **선수·보디빌딩 시즌 준비**
+- **When you have a weight goal** (cut, bulk, maintenance)
+- **Body recomposition** (muscle retention during cut, muscle gain in novices)
+- **When training performance is not improving and diet needs review**
+- **Breaking through plateaus** — recalibrate calories and protein
+- **Preparing for athletic or bodybuilding season**
 
-## 실전 적용
+## Practical Application
 
-### 감량 (4주 초기)
+### Cut (Initial 4 Weeks)
 ```
-1. TDEE 추정 → -500 kcal
-2. 단백질 2.0 g/kg 고정
-3. 지방 0.8 g/kg
-4. 잔량 탄수
-5. 주 3회 같은 조건에서 체중 측정, 주평균 비교
-6. 2주간 감소 <0.3% 체중 → -150~250 kcal 추가 조정
+1. Estimate TDEE → -500 kcal
+2. Fix protein at 2.0 g/kg
+3. Fat at 0.8 g/kg
+4. Remainder to carbs
+5. Weigh 3x/week under same conditions, compare weekly averages
+6. <0.3% weight loss over 2 weeks → additional adjustment of -150~250 kcal
 ```
 
-### 증량 (린 벌크)
+### Bulk (Lean Bulk)
 ```
 1. TDEE +200~300 kcal
-2. 단백질 1.6~2.0 g/kg
-3. 지방 1.0 g/kg
-4. 잔량 탄수
-5. 주 1회 체중, 월평균 +0.25~0.5%
-6. 4주 정체면 +100~200 kcal
+2. Protein 1.6–2.0 g/kg
+3. Fat 1.0 g/kg
+4. Remainder to carbs
+5. Weigh 1x/week, monthly average +0.25~0.5%
+6. If plateau lasts 4 weeks, +100~200 kcal
 ```
 
-### 추적 도구
-- MyFitnessPal / Cronometer / FatSecret / 카카오 Fitday 계열
-- 식품 저울(중요) + 조리 전 무게
-- 1~3개월 후 "감(感)"으로 추정 가능
+### Tracking Tools
+- MyFitnessPal / Cronometer / FatSecret / Kakao Fitday family
+- Food scale (important) + weigh before cooking
+- After 1–3 months, you can estimate by "feel"
 
-### 한국 직장인 현실 보정
-- **배달·외식 라벨 ±20~30% 오차** — 7일 평균에 ±5% 여유로 보정, 숫자 과신 금지
-- **회식 다음날 복구 72h 규칙**
-  - D+0 새벽: 수분 500ml, 전해질 1포
-  - D+1: 평소 칼로리 90~95%, 단백질 유지, 나트륨·알코올 금지, 저강도 유산소 30분
-  - D+2: 정상 복귀. 체중 +1~2kg은 수분 — 주평균만 의미
-- **쌀밥 300g × 3끼 = 탄수 ~135g (흰쌀 기준)**. 1끼 공깃밥(200g)으로 줄이거나 현미·귀리 50% 혼합
-- **편의점 조합 예시(단백질 40g 저렴)**: 닭가슴살 200g (40g) + 삶은계란 2개 (12g) + 그릭요거트 무가당 + 바나나
-- **나트륨 스왑**: 김치 → 생채소 1/3 분산, 라면 → 국물 절반, 찌개 → 건더기 위주. 최소 WHO 2,000 mg/일 목표 (한국 평균 3,200에서 30~40% 감소만 해도 유의미)
+### Korean Office Worker Reality Adjustments
+- **Delivery and restaurant labels ±20–30% error** — compensate with ±5% margin on 7-day average, avoid overtrusting numbers
+- **72h recovery rule after work dinners (회식)**
+  - D+0 dawn: 500 ml water, 1 packet of electrolytes
+  - D+1: 90–95% of normal calories, maintain protein, avoid sodium and alcohol, 30 min low-intensity cardio
+  - D+2: return to normal. +1–2 kg weight is water — only weekly average is meaningful
+- **White rice 300 g × 3 meals = carbs ~135 g (white rice basis)**. Reduce to one bowl (200 g) per meal or mix 50% brown rice/oats
+- **Convenience store combo example (cheap 40 g protein)**: chicken breast 200 g (40 g) + 2 boiled eggs (12 g) + unsweetened Greek yogurt + banana
+- **Sodium swaps**: kimchi → distribute 1/3 to raw vegetables, ramen → halve the broth, stew (찌개) → focus on solids. Target minimum WHO 2,000 mg/day (even a 30–40% reduction from Korea's average of 3,200 is meaningful)
 
-## 안티패턴
+## Anti-Patterns
 
-- **"IIFYM = 정크 푸드로 채워도 OK"** — 포만감·섬유·미량영양·LDL에 영향
-- **단백질 너무 적게** (1.0 g/kg 미만) → 감량 시 근손실
-- **단백질 신장 파괴 신화** — 신장 정상인에겐 근거 없음. CKD 환자만 제한
-- **탄수 포비아** — 훈련 시 탄수 필요. 저체중·무월경 젊은 여성에 저탄수 강요는 RED-S·골밀도·생리 교란 리스크
-- **칼로리만 맞추고 단백질 무시** — 체성분 악화
-- **주말 포함 일주일 칼로리 평균 무시** — "평일만 감량, 주말 폭식"은 유지 칼로리와 다를 바 없음
-- **너무 공격적 적자(TDEE -40%+)** — 근손실·호르몬 저하·리바운드
-- **일일 미시 변동에 집착** — 수분·장내용·글리코겐이 ±2kg 흔들림. 주평균이 지표
-- **체중계 숫자만 봄** — `body-composition`과 병행, 허리둘레·거울·수행도 함께
-- **섭식장애 경향자에 엄격 트래킹 강요** — 강박 악화 가능. 전문의 우선
-- **GLP-1 복용 중 단백질 자동 충족 가정** — 포만감 급증으로 오히려 과소 섭취 흔함. 의식적 확보 필수
+- **"IIFYM = OK to fill with junk food"** — affects satiety, fiber, micronutrients, LDL
+- **Too little protein** (under 1.0 g/kg) → muscle loss during cutting
+- **Protein-kidney destruction myth** — no evidence for those with normal kidney function. Only restrict for CKD patients
+- **Carb phobia** — carbs are needed for training. Forcing low-carb on underweight, amenorrheic young women risks RED-S, bone density, and menstrual disruption
+- **Matching calories only while ignoring protein** — deteriorates body composition
+- **Ignoring weekly calorie average including weekends** — "cut on weekdays, binge on weekends" is no different from maintenance calories
+- **Overly aggressive deficits (TDEE -40%+)** — muscle loss, hormonal decline, rebound
+- **Obsessing over daily micro-fluctuations** — water, gut contents, and glycogen swing ±2 kg. Weekly average is the indicator
+- **Looking only at the scale number** — combine with `body-composition`, use waist circumference, mirror, and performance together
+- **Forcing strict tracking on those with disordered eating tendencies** — may worsen obsession. Prioritize a specialist
+- **Assuming automatic protein adequacy while on GLP-1** — under-consumption is common due to surge in satiety. Deliberate intake is essential
 
-## 한계
+## Limitations
 
-1. **라벨 정확도** — 가공식 ±20% 오차 흔함
-2. **TDEE 개인차** — 같은 BMR 추정이어도 ±15% 실제 차이
-3. **심리적 부담** — 저울 강박·섭식장애 유발 가능
-4. **사회적 식사 난이도** — 외식·회식에서 정확 추적 어려움
-5. **장기 자동화** — 평생 계량할 수 없음 → 6~12개월 후 "감" 단계로 졸업이 목표
-6. **비만 병인의 복잡성** — 호르몬·수면·스트레스·유전이 에너지 수지 양측(섭취·소비)을 움직임. "의지력 부족"으로 단순화 금지
+1. **Label accuracy** — processed food ±20% error is common
+2. **TDEE individual variation** — ±15% actual difference even with the same BMR estimate
+3. **Psychological burden** — may trigger scale obsession or eating disorders
+4. **Difficulty with social meals** — accurate tracking is hard in restaurant and work dinner settings
+5. **Long-term automation** — you cannot weigh forever → goal is to graduate to the "feel" stage after 6–12 months
+6. **Complexity of obesity etiology** — hormones, sleep, stress, and genetics move both sides of the energy balance (intake and expenditure). Do not oversimplify as "lack of willpower"
 
-## 함께 쓰는 것·이 프레임워크가 *틀렸을 때*
+## What to Combine With · When This Framework Is *Wrong*
 
-- 배경 식단 질 → `mediterranean-diet`
-- 실행 구조 필요 → `intermittent-fasting`
-- 탄수 반응이 나쁨 → `low-carb-keto`
-- 근비대·근력 → `hypertrophy-volume` / `strength-basics` (단백질 타깃 맞추기)
-- 지구력 선수 → `polarized-endurance` (탄수화물 주기화)
-- 측정 기반 검증 → `body-composition`
+- Background diet quality → `mediterranean-diet`
+- Need execution structure → `intermittent-fasting`
+- Poor response to carbs → `low-carb-keto`
+- Hypertrophy · strength → `hypertrophy-volume` / `strength-basics` (hit protein targets)
+- Endurance athletes → `polarized-endurance` (carbohydrate periodization)
+- Measurement-based validation → `body-composition`
 
-## 추가 학습 자료
+## Further Learning Resources
 
 - Helms, E., Valdez, A., Morgan, A. *The Muscle & Strength Pyramid: Nutrition.* (2nd ed.)
 - Morton, R.W. et al. (2018). "A systematic review, meta-analysis... protein supplementation." *Br J Sports Med.*

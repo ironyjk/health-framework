@@ -1,125 +1,125 @@
 ---
 name: intermittent-fasting
 version: "0.1.0"
-description: "간헐적 단식(IF) — 16:8 TRE, 5:2, ADF. 체중·인슐린 감수성에 CR 동등 수준 효과. '자가포식으로 수명 연장' 등 과장된 인간 주장은 증거 약함. 실천 구조로서의 가치가 핵심."
+description: "Intermittent Fasting (IF) — 16:8 TRE, 5:2, ADF. Comparable to CR in weight and insulin sensitivity benefits. Exaggerated human claims like 'autophagy-driven longevity extension' have weak evidence. Value lies primarily in its structure as a practical framework."
 ---
 
 # Intermittent Fasting (IF)
 
-## 한 줄 요약
+## One-Line Summary
 
-**먹는 시간대를 제한**해 총 섭취 감소와 실행 단순성을 얻는 전략. 체중·혈당 개선에서 **칼로리 제한(CR)과 동등 수준**의 효과. "자가포식·수명 연장" 등 인간 데이터는 **약함**.
+A strategy that **restricts the eating window** to achieve reduced total intake and executional simplicity. **Comparable to caloric restriction (CR)** in weight and glucose improvements. Human data for "autophagy · longevity extension" is **weak**.
 
-## 증거 강도
+## Strength of Evidence
 
-- 체중 감량: **보통** (CR 대비 우위 없음)
-- 인슐린 감수성·공복 혈당: **보통**
-- 심혈관 리스크 인자: **보통**
-- 장수·자가포식·수명 연장 인간 결과: **약함** (대부분 설치류·세포 실험)
-- 근육 유지: **중립** (단백질·저항운동 동반 시)
+- Weight loss: **Moderate** (no superiority over CR)
+- Insulin sensitivity · fasting glucose: **Moderate**
+- Cardiovascular risk factors: **Moderate**
+- Longevity · autophagy · lifespan extension in humans: **Weak** (mostly rodent and cell experiments)
+- Muscle preservation: **Neutral** (when combined with protein · resistance training)
 
-## 이론·증거 기원
+## Theoretical · Evidentiary Origins
 
-- **Rafael de Cabo & Mark Mattson** (NEJM 2019) — 대사 전환(metabolic switching)과 케톤 신호 리뷰
-- **Satchin Panda** — 시간 제한 섭식(TRE·Time-Restricted Eating) 서카디언 정렬
-- **Krista Varady** — ADF(Alternate-Day Fasting) RCT 다수
-- **Sutton et al. (2018)** — eTRE(early TRE, 6h 창), 체중 무변 상태에서 인슐린 감수성 개선
-- **Lowe et al. (TREAT, 2020)** — 16:8 단독은 CR과 차이 없음 (제목만 보고 단정 금지)
+- **Rafael de Cabo & Mark Mattson** (NEJM 2019) — Review of metabolic switching and ketone signaling
+- **Satchin Panda** — Circadian alignment of Time-Restricted Eating (TRE)
+- **Krista Varady** — Multiple RCTs on Alternate-Day Fasting (ADF)
+- **Sutton et al. (2018)** — eTRE (early TRE, 6h window) improves insulin sensitivity in weight-stable state
+- **Lowe et al. (TREAT, 2020)** — 16:8 alone shows no difference vs CR (do not make snap judgments from title alone)
 
-## 핵심 개념
+## Core Concepts
 
-### 1. 형식들
-- **16:8 TRE** — 8시간 섭취, 16시간 단식 (가장 흔함)
-- **14:10 / 12:12** — 완화형, 준수율 높음
-- **eTRE (early TRE)** — 섭취 창을 이른 시간대로 (예: 8am~2pm). 서카디언 이점 이론
-- **5:2** — 주 5일 정상, 2일 500~600 kcal
-- **ADF / Modified ADF** — 격일 단식 / 단식일 25% 칼로리
-- **24h 주 1회** — OMAD(One Meal a Day) 계열
+### 1. Formats
+- **16:8 TRE** — 8-hour eating, 16-hour fasting (most common)
+- **14:10 / 12:12** — Relaxed variants, higher adherence
+- **eTRE (early TRE)** — Shift eating window earlier (e.g., 8am–2pm). Theoretical circadian advantage
+- **5:2** — 5 normal days per week, 2 days at 500–600 kcal
+- **ADF / Modified ADF** — Alternate-day fasting / 25% calories on fasting days
+- **24h once per week** — OMAD (One Meal a Day) family
 
-### 2. 핵심 기전 가설
-- **CR via time restriction** — 섭취 창 축소 → 자연스러운 총량 감소
-- **인슐린 반복 피크 감소** — 간헐적 대사 전환
-- **서카디언 정렬** — 아침에 인슐린 감수성 최대 → eTRE 이점
+### 2. Core Mechanistic Hypotheses
+- **CR via time restriction** — Narrowed eating window → natural reduction in total intake
+- **Reduced repeated insulin peaks** — Intermittent metabolic switching
+- **Circadian alignment** — Peak insulin sensitivity in the morning → eTRE advantage
 
-### 3. "자가포식" 주장의 현실
-- 설치류·세포: 24~48h 단식에서 명확
-- 인간: 측정 어렵고 시점·조직별 편차 큼
-- 16h 단식으로 "자가포식 ON"은 **과장**
+### 3. Reality of the "Autophagy" Claim
+- Rodents · cells: Clearly evident at 24–48h fasts
+- Humans: Difficult to measure, with large variance across timepoints · tissues
+- Claim that "autophagy is ON" after 16h fasting is **exaggerated**
 
-## 언제 쓰나
+## When to Use
 
-- **체중 감량을 위한 실행 구조가 필요** — 칼로리 세기보다 시간 제한이 쉬운 사람
-- **아침 식욕 없음·야식 습관 교정**
-- **인슐린 저항성·공복 혈당 개선 보조** (주 개입 아닌 보조)
-- **간헐적 카페인·검은 커피 생활 스타일과 호환**
-- **여행·바쁜 일정 중에도 쉽게 준수** — 규칙이 단순
+- **Need an executional structure for weight loss** — For people who find time restriction easier than calorie counting
+- **Correcting no-morning-appetite · late-night eating habits**
+- **Adjunct support for insulin resistance · fasting glucose improvement** (as adjunct, not primary intervention)
+- **Compatible with an intermittent caffeine · black coffee lifestyle**
+- **Easy to maintain even during travel · busy schedules** — Rule is simple
 
-## 언제 피하거나 조심
+## When to Avoid or Be Cautious
 
-- **섭식장애 과거력 또는 경향** — "깨끗한 시간"·"더러운 시간" 이분법이 강박 재발 유발. 전문의 우선
-- **임신·수유**
-- **1형 당뇨·약물치료 중 2형 당뇨** (저혈당 위험, 의사 관리)
-- **GLP-1 복용 중** — 이미 포만감 급증으로 과소 섭취 위험. IF 병행 시 단백질 미달 현실화, 권장 안 함
-- **체중 미달·BMI <18.5**
-- **성장기 청소년**
-- **근비대·선수 퍼포먼스 최적화** — 단백질 분할 기회 축소 (3~4회 > 1~2회)
-- **여성 호르몬 민감도** — 가임기 여성, 특히 저체중·저칼로리에서 생리주기 교란·무월경 보고 (증거 혼재·개인차 큼). 16:8 이상 엄격 창은 처음부터 피하거나 14:10에서 시작
-- **폐경 전 여성으로 철·에너지 가용성 낮은 경우** — RED-S 리스크, IF가 가속할 수 있음
+- **History or tendency toward eating disorders** — The "clean time" · "dirty time" dichotomy can trigger obsessive relapse. Consult a specialist first
+- **Pregnancy · breastfeeding**
+- **Type 1 diabetes · Type 2 diabetes on medication** (hypoglycemia risk, requires physician supervision)
+- **Currently on GLP-1** — Already at risk of under-eating due to satiety surge. Combining with IF makes protein shortfall real; not recommended
+- **Underweight · BMI <18.5**
+- **Adolescents in growth phase**
+- **Hypertrophy · athletic performance optimization** — Reduced opportunities for protein distribution (3–4 times > 1–2 times)
+- **Female hormonal sensitivity** — In reproductive-age women, especially those underweight · in low caloric intake, reports of menstrual cycle disruption · amenorrhea (evidence mixed, large individual variation). Avoid strict windows of 16:8 or stricter from the start, or begin with 14:10
+- **Premenopausal women with low iron · energy availability** — RED-S risk, IF may accelerate it
 
-## 실전 적용
+## Practical Application
 
-### 초보 시작
+### Beginner Start
 ```
-Week 1~2: 12:12 → 13:11 → 14:10 점진 확장
-Week 3~4: 16:8 안정화. 창 시간은 일정에 맞게 고정
-- 예: 12pm~8pm / 9am~5pm (eTRE) / 1pm~9pm
-식단 질·단백질 목표는 유지 (macro-tracking과 병행)
+Week 1~2: 12:12 → 13:11 → 14:10 gradual extension
+Week 3~4: Stabilize at 16:8. Fix the window time to fit your schedule
+- Examples: 12pm~8pm / 9am~5pm (eTRE) / 1pm~9pm
+Maintain diet quality · protein goals (combine with macro-tracking)
 ```
 
-### 성공의 조건
-1. **칼로리 적자가 실제로 발생해야** 체중 감소 — 시간만 줄이고 폭식하면 효과 無
-2. **단백질 충족** — 창 내 1.6~2.2 g/kg 확보. 끼니당 30~40g
-3. **수분·전해질·카페인(무가당)** — 단식 창 허용
-4. **수면과 충돌 피하기** — 늦은 창 + 늦은 수면은 서카디언 꼬이게 만듦
+### Conditions for Success
+1. **A caloric deficit must actually occur** for weight loss — merely reducing time and then binging has no effect
+2. **Protein adequacy** — Secure 1.6–2.2 g/kg within window. 30–40g per meal
+3. **Water · electrolytes · caffeine (unsweetened)** — Allowed during fasting window
+4. **Avoid conflict with sleep** — Late window + late sleep disrupts circadian rhythm
 
-### 지속 가능성 체크
-- 8주 해봤는데 식욕 폭발/수면 악화/훈련 수행 하락 → 적합하지 않을 수 있음
-- 여성 생리주기 교란 시 창 확대(14:10) 또는 중단
+### Sustainability Check
+- Tried 8 weeks but appetite explosion/sleep worsening/training performance decline → may not be suitable
+- If female menstrual cycle is disrupted, expand window (14:10) or discontinue
 
-### 한국 직장인 현실
-- **회식 문화와 충돌**: 저녁 창(12pm~8pm)은 회식(19시~)과 정면 충돌. eTRE(8am~4pm)는 사회생활에 더 어려움
-- **권장**: 회식 날은 창 확장(10h) 허용, 주 5일만 16:8. 주 7일 고집 → 부적응 가속
-- **아침 공복 커피 문화**와 호환 양호 — 검은 커피·물·녹차는 단식 중 허용
-- **김밥·도시락 점심**과 8h 창 정렬 쉬움
+### Korean Office Worker Reality
+- **Conflict with company dinner (회식) culture**: An evening window (12pm~8pm) directly clashes with company dinners (starting 19:00). eTRE (8am~4pm) is even harder for social life
+- **Recommendation**: Allow window expansion (10h) on company dinner days; do 16:8 only 5 days/week. Insisting on 7 days/week → accelerates non-adherence
+- **Compatible with morning fasted coffee culture** — Black coffee · water · green tea allowed during fast
+- **Gimbap · lunchbox lunches** align easily with 8h window
 
-## 안티패턴
+## Anti-Patterns
 
-- **"16시간 단식 = 건강 자동"** — 창 내 가공식·과식이면 의미 없음
-- **단식 창에 대량의 "방탄커피"** — 실질 칼로리 섭취로 단식 희석
-- **단백질 1끼 몰아먹기** — 일일 총량은 같아도 끼니당 분산이 근단백 합성에 유리
-- **"자가포식 극대화"위한 장기 단식 반복** — 근손실·전해질 이상·담석 리스크
-- **여성·성장기·섭식장애 병력에 무분별 적용**
-- **에너지 요구량 과한 훈련일에도 16:8 고수** — 수행·회복 저하
+- **"16-hour fasting = automatic health"** — Meaningless if window contains processed food · overeating
+- **Large amounts of "bulletproof coffee" during fasting window** — Substantial calorie intake dilutes the fast
+- **Cramming protein into one meal** — Same daily total, but per-meal distribution favors muscle protein synthesis
+- **Repeating prolonged fasts for "maximum autophagy"** — Risks muscle loss · electrolyte disturbance · gallstones
+- **Indiscriminate application to women · growing adolescents · those with eating disorder history**
+- **Maintaining 16:8 even on training days with high energy demands** — Degrades performance · recovery
 
-## 한계
+## Limitations
 
-1. **CR 대비 우위 없음** — TREAT trial 등 체중·지방량에서 유의한 추가 효과 실패
-2. **장기 준수율은 식단과 비슷하게 하락**
-3. **인지·기분 영향 개인차** — 일부 집중력 향상, 일부 저하
-4. **수면·코르티솔 부작용** 일부 보고 (특히 주 1회 24h+)
-5. **인간 자가포식·장수 주장은 증거 불충분**
-6. **여성 RCT 비중이 남성보다 낮음**
-7. **사회적 식사와 충돌** — 가족·업무 회식과 창 어긋남
+1. **No superiority over CR** — TREAT trial and others failed to find significant additional effects on weight · fat mass
+2. **Long-term adherence rates decline similarly to other diets**
+3. **Individual variation in cognition · mood effects** — some experience focus improvement, some decline
+4. **Some reports of sleep · cortisol side effects** (especially 24h+ weekly)
+5. **Insufficient evidence for human autophagy · longevity claims**
+6. **Women are underrepresented in RCTs compared to men**
+7. **Conflicts with social meals** — Window misalignment with family · work dinners
 
-## 함께 쓰는 것·이 프레임워크가 *틀렸을 때*
+## What to Combine With · When This Framework is *Wrong*
 
-- 체중 감량이 목적인데 IF가 안 맞음 → `macro-tracking` 직접 적자 관리
-- 식단 질이 낮음 → `mediterranean-diet` 병행
-- 근비대가 목적 → `hypertrophy-volume` + 끼니 3~5회 분산 (`macro-tracking`)
-- 수면 악화 → `sleep-foundations` 먼저
-- 혈당·지질 모니터 필요 → `blood-biomarkers`
+- Goal is weight loss but IF doesn't fit → `macro-tracking` for direct deficit management
+- Low diet quality → combine with `mediterranean-diet`
+- Goal is hypertrophy → `hypertrophy-volume` + 3–5 meal distribution (`macro-tracking`)
+- Sleep worsening → `sleep-foundations` first
+- Need glucose · lipid monitoring → `blood-biomarkers`
 
-## 추가 학습 자료
+## Further Learning Resources
 
 - de Cabo, R., Mattson, M.P. (2019). "Effects of Intermittent Fasting on Health, Aging, and Disease." *NEJM* 381:2541.
 - Sutton, E.F. et al. (2018). "Early Time-Restricted Feeding Improves Insulin Sensitivity..." *Cell Metabolism.*

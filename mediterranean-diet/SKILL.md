@@ -1,133 +1,133 @@
 ---
 name: mediterranean-diet
 version: "0.1.0"
-description: "지중해식 식단 — 식단 개입 중 심혈관·사망률·당뇨·인지저하에 대해 가장 강한 RCT 증거(PREDIMED·Lyon Heart Study). 올리브오일·생선·채소·견과·콩·통곡·적당 와인 + 적색육·가공식 최소화."
+description: "Mediterranean Diet — among dietary interventions, the strongest RCT evidence for cardiovascular events, mortality, diabetes, and cognitive decline (PREDIMED, Lyon Heart Study). Olive oil, fish, vegetables, nuts, legumes, whole grains, moderate wine + minimal red and processed meat."
 ---
 
 # Mediterranean Diet
 
-## 한 줄 요약
+## One-Line Summary
 
-**식이 개입 중 장기 결과(심혈관 사건·사망·당뇨 발병·인지 저하)에 대해 가장 강한 RCT 증거가 있는 식단.** 특정 금지식품 기반이 아니라 **플라스틱적 패턴**이다.
+**The diet with the strongest RCT evidence for long-term outcomes (cardiovascular events, mortality, diabetes incidence, cognitive decline) among all dietary interventions.** It is not based on prohibited foods but on a **plastic pattern**.
 
-## 증거 강도
+## Strength of Evidence
 
-**강함**. 식단 영역에서 "강한 증거"라는 표현이 가장 정당화되는 거의 유일한 식단.
+**Strong**. Almost the only diet for which the phrase "strong evidence" is most justified within the dietary domain.
 
-## 이론·증거 기원
+## Origin of Theory and Evidence
 
-- **Ancel Keys** — *Seven Countries Study* (1950s~1980s). 크레타·남부 이탈리아의 저심혈관사망 패턴 관찰.
-- **Lyon Diet Heart Study** (de Lorgeril, 1994 Lancet / 1999 Circulation 최종) — 심근경색 2차예방 RCT. 전체 사망률 ~55~70% 감소(중간 분석 Lancet 1994; 최종 4년 분석 Circulation 1999 시 56%). 샘플 크기 작음(n=605), 조기 종료로 효과 크기 과대 가능성 지적 있음.
-- **PREDIMED** (Estruch et al., NEJM 2013, 2018 재분석) — 스페인 7,447명 고위험군, 올리브오일 군/견과 군이 저지방 대조군 대비 주요 심혈관 사건 ~30% 감소. 식단 RCT의 황금표준.
-- **PREDIMED-Plus** — 체중감량·당뇨 2차예방 진행 중.
-- 코크란·WHO 다수 메타분석에서 2형 당뇨·대사증후군·알츠하이머 위험 감소 지지.
+- **Ancel Keys** — *Seven Countries Study* (1950s–1980s). Observation of low cardiovascular mortality patterns in Crete and southern Italy.
+- **Lyon Diet Heart Study** (de Lorgeril, 1994 Lancet / 1999 Circulation final) — RCT for secondary prevention of myocardial infarction. All-cause mortality reduced by ~55–70% (interim analysis Lancet 1994; 56% in the final 4-year analysis Circulation 1999). Small sample size (n=605); concerns about overestimation of effect size due to early termination have been raised.
+- **PREDIMED** (Estruch et al., NEJM 2013, 2018 reanalysis) — Spanish cohort of 7,447 high-risk individuals; the olive oil arm and the nut arm reduced major cardiovascular events by ~30% versus the low-fat control. The gold standard of dietary RCTs.
+- **PREDIMED-Plus** — Ongoing, focused on weight loss and secondary prevention of diabetes.
+- Multiple Cochrane and WHO meta-analyses support reduced risk of type 2 diabetes, metabolic syndrome, and Alzheimer's disease.
 
-## 핵심 개념
+## Core Concepts
 
-### 구성 요소 (빈도 기반, 금지 기반 아님)
+### Components (Frequency-Based, Not Prohibition-Based)
 
-**매일 풍부하게**
-- 채소 (≥3 serv), 과일 (2~3 serv)
-- 통곡 (정제 곡물 아닌 것)
-- **엑스트라버진 올리브오일**(EVOO) — 주 지방원
-- 견과·씨앗 (한 줌)
-- 콩류·렌즈콩 (주 3~4회)
-- 허브·향신료 (소금 대체)
+**Daily and Abundant**
+- Vegetables (≥3 serv), fruit (2–3 serv)
+- Whole grains (not refined)
+- **Extra virgin olive oil** (EVOO) — primary fat source
+- Nuts and seeds (a handful)
+- Legumes and lentils (3–4 times/week)
+- Herbs and spices (as a salt substitute)
 
-**주 2회+**
-- **생선·해산물** (특히 기름진 생선: 고등어·정어리·연어)
+**2+ Times per Week**
+- **Fish and seafood** (especially oily fish: mackerel, sardines, salmon)
 
-**적당히**
-- 가금·달걀·요거트·치즈 (주 몇 회)
-- 레드와인 1잔/일 이하 (술 자체는 선택 사항, 비음주자에게 권유하지 않음)
+**In Moderation**
+- Poultry, eggs, yogurt, cheese (a few times per week)
+- Red wine, ≤1 glass/day (alcohol itself is optional, not recommended for non-drinkers)
 
-**드물게**
-- 적색육·가공육 (주 1회 미만 권장)
-- 과자·단 음료·정제 설탕
+**Rarely**
+- Red meat and processed meat (recommended <1 time/week)
+- Sweets, sugary drinks, refined sugar
 
-### 핵심은 패턴이지 단일 성분이 아니다
+### The Pattern Matters, Not Any Single Component
 
-PREDIMED에서 EVOO나 견과 단독이 아니라 **전체 패턴**이 효과를 냈다. "올리브오일만 추가"는 지중해식이 아니다.
+In PREDIMED, it was not EVOO or nuts alone but the **overall pattern** that produced the effect. "Just adding olive oil" is not the Mediterranean diet.
 
-## 언제 쓰나
+## When to Use It
 
-- **장기 심혈관·대사 건강이 목적** — 다른 어떤 식단보다 증거가 강함
-- **ApoB·LDL·HbA1c·혈압 개선**이 필요한 건강검진 결과
-- **지속 가능한 디폴트 식단** — 감량·증량 목적과 무관하게 "배경 식단"으로
-- **가족과 함께 실행** — 특이한 금기가 적어 사회적 지속 가능성 높음
-- **건강수명(healthspan)** 목적
+- **When long-term cardiovascular and metabolic health is the goal** — evidence stronger than any other diet
+- **When health-check results call for improvement in ApoB, LDL, HbA1c, or blood pressure**
+- **As a sustainable default diet** — as a "background diet" regardless of weight-loss or weight-gain goals
+- **For execution with the family** — few unusual restrictions, high social sustainability
+- **For healthspan** purposes
 
-## 한국 맥락 적용
+## Application in the Korean Context
 
-### 직접 번역 가능한 것
-- 생선 섭취는 한국인 전통과 친화적 (고등어·삼치·연어·꽁치)
-- 채소·나물·김치는 채소 섭취량 유리 (단, 나트륨 과다 주의)
-- 콩·두부·낫토·청국장 = 지중해식의 콩류와 기능적으로 유사
-- 올리브오일은 참기름·들기름과 병행 가능 (들기름 = 오메가-3 알파리놀렌산)
+### What Translates Directly
+- Fish consumption is compatible with Korean tradition (mackerel, Spanish mackerel, salmon, saury)
+- Vegetables, namul (나물), and kimchi (김치) favor vegetable intake (caution: high sodium)
+- Soy, tofu, natto, and cheonggukjang (청국장) are functionally similar to legumes in the Mediterranean diet
+- Olive oil can coexist with sesame oil and perilla oil (perilla oil = omega-3 alpha-linolenic acid)
 
-### 주의
-- **나트륨** — 한국식은 평균 3,200 mg/일 (WHO 2,000 권고 1.6배). 지중해식 혈압 이점을 상쇄. 김치 1인분 반 줄이기·국물 반만 먹기·라면 주 1회 이하
-- **정제 탄수화물** — 흰쌀 중심이면 통곡 비율 낮음. 현미·보리·귀리 50% 혼합부터
-- **적색육 해석** — 삼겹살·갈비·가공햄은 주 1회 이하. "한국인 삼겹살 문화"는 가공육·포화지방 부담
-- **알코올** — 한국 음주 문화는 소주·맥주 중심. 레드와인 1잔/일은 "추가 권장"이 아니라 "비음주자는 시작하지 말 것"
-- **가족 실행** — 아이가 있으면 김 없는 밥·올리브오일은 처음 거부 흔함. 올리브오일은 나물·샐러드부터 몰래 편입, 생선은 고등어구이·연어덮밥처럼 익숙한 형태 선택
+### Cautions
+- **Sodium** — The Korean diet averages 3,200 mg/day (1.6× the WHO recommendation of 2,000). This offsets the blood-pressure benefits of the Mediterranean diet. Halve your kimchi serving, drink only half the broth, eat ramyeon ≤1 time/week.
+- **Refined Carbohydrates** — White-rice-centric meals have low whole-grain proportions. Start with a 50% mix of brown rice, barley, and oats.
+- **Interpretation of Red Meat** — Pork belly, galbi, and processed ham ≤1 time/week. The "Korean pork belly culture" carries a burden of processed meat and saturated fat.
+- **Alcohol** — Korean drinking culture centers on soju and beer. The 1 glass/day of red wine is not "additional encouragement" but "non-drinkers should not start."
+- **Family Execution** — With children, plain rice without seaweed and olive oil are often refused at first. Sneak olive oil into namul and salads first; choose familiar fish forms such as grilled mackerel or salmon don.
 
-## 실전 적용
+## Practical Application
 
-### 4주 시작 프로토콜
+### 4-Week Starter Protocol
 ```
-Week 1: 주 지방원을 EVOO로 전환. 끼니당 1~2 Tbsp.
-Week 2: 주 2회 생선 고정. 적색육 주 1회로 감소.
-Week 3: 매끼 채소 ≥1/2 접시. 간식을 견과로.
-Week 4: 탄수화물을 통곡 50%+로. 가공식·설탕음료 주 1회 이하.
+Week 1: Switch primary cooking fat to EVOO. 1–2 Tbsp per meal.
+Week 2: Lock in fish 2x/week. Reduce red meat to 1x/week.
+Week 3: Vegetables ≥1/2 plate at every meal. Snacks switched to nuts.
+Week 4: Carbohydrates 50%+ whole grains. Processed foods and sugary drinks ≤1x/week.
 ```
 
-### 체크리스트 (PREDIMED 14문항 단축판)
-- EVOO 주 요리 지방인가?
-- EVOO ≥4 Tbsp/일?
-- 채소 ≥2 serv/일?
-- 과일 ≥3 serv/일?
-- 적색육·가공육 <1 serv/일?
-- 버터·마가린·크림 <1 serv/일?
-- 단 음료 <1/일?
-- 와인 주 7잔 이하(음주자 한정)?
-- 콩류 주 ≥3회?
-- 생선 주 ≥3회?
-- 상업용 과자 주 <3회?
-- 견과 주 ≥3회?
-- 가금을 적색육보다 자주?
-- 야채·파스타·쌀에 EVOO·마늘·토마토 소프리토 사용?
+### Checklist (PREDIMED 14-Item Short Form)
+- Is EVOO your main cooking fat?
+- EVOO ≥4 Tbsp/day?
+- Vegetables ≥2 serv/day?
+- Fruit ≥3 serv/day?
+- Red and processed meat <1 serv/day?
+- Butter, margarine, cream <1 serv/day?
+- Sugary drinks <1/day?
+- Wine ≤7 glasses/week (drinkers only)?
+- Legumes ≥3 times/week?
+- Fish ≥3 times/week?
+- Commercial sweets <3 times/week?
+- Nuts ≥3 times/week?
+- Poultry more often than red meat?
+- Use of EVOO, garlic, and tomato sofrito on vegetables, pasta, and rice?
 
-10/14 이상이 목표.
+Target: ≥10/14.
 
-## 안티패턴
+## Anti-Patterns
 
-- **"올리브오일 첨가"만 하고 나머지 그대로** — EVOO는 필요조건이지 충분조건 아님
-- **지중해식 = 지방 자유**로 오해 → 칼로리 과잉으로 체중 증가
-- **"와인은 몸에 좋다"로 음주량 증가** — PREDIMED도 비음주자엔 권하지 않음
-- **가공된 "지중해식 라벨" 제품** — 마케팅 덫 (파스타·피자 소스류)
-- **단 한 번의 지중해식 여행으로 충분하다 오해** — 3개월+ 지속이어야 바이오마커 변화
+- **"Add olive oil" but leave everything else the same** — EVOO is necessary but not sufficient.
+- **Misunderstanding "Mediterranean diet = free fat"** → caloric excess and weight gain.
+- **"Wine is good for you" used to increase alcohol consumption** — even PREDIMED does not recommend it for non-drinkers.
+- **Processed "Mediterranean-labeled" products** — a marketing trap (pasta, pizza sauces, etc.).
+- **Misunderstanding that a single Mediterranean trip is enough** — biomarker changes require 3+ months of sustained adherence.
 
-## 한계
+## Limitations
 
-1. **체중 감량 효과는 상대적으로 약함** — 패턴만으로 큰 적자를 만들기 어려움. 감량 목적이면 `macro-tracking` 병행.
-2. **근육 증량에 불충분** — 단백질 목표(1.6~2.2g/kg)는 별도 관리 (`macro-tracking`).
-3. **선수·고강도 훈련자에겐 탄수화물 부족할 수 있음** — 폴라라이즈드 지구력 훈련 시 주기화 필요.
-4. **순수 RCT 장기 데이터 한계** — PREDIMED도 5년 수준. 평생 데이터는 관찰연구.
-5. **비용·접근성** — EVOO·견과·생선은 국내에서 저렴하지 않음.
-6. **문화적 지속성** — 한국 회식·명절 환경과 충돌 가능.
+1. **The weight-loss effect is relatively weak** — pattern alone makes large deficits difficult. For weight loss, combine with `macro-tracking`.
+2. **Insufficient for muscle gain** — protein targets (1.6–2.2g/kg) require separate management (`macro-tracking`).
+3. **Carbohydrates may be insufficient for athletes and high-intensity trainees** — periodization needed for polarized endurance training.
+4. **Limits of pure long-term RCT data** — even PREDIMED is at the 5-year level. Lifetime data are observational.
+5. **Cost and accessibility** — EVOO, nuts, and fish are not cheap in Korea.
+6. **Cultural sustainability** — potential conflict with Korean company dinners (회식) and holidays.
 
-## 함께 쓰는 것·이 프레임워크가 *틀렸을 때*
+## What to Combine With · When This Framework Is *Wrong*
 
-- 빠른 감량 필요 → `low-carb-keto` 또는 `intermittent-fasting` + `macro-tracking`
-- 체성분 변화 목표 → `macro-tracking` + `hypertrophy-volume` 또는 `strength-basics`
-- 혈액검사 해석이 우선 → `blood-biomarkers` 먼저
-- 근력/지구력 성과 최적화 → 해당 훈련 프레임워크 + 탄수화물 주기화
+- Need rapid weight loss → `low-carb-keto` or `intermittent-fasting` + `macro-tracking`
+- Body-composition goals → `macro-tracking` + `hypertrophy-volume` or `strength-basics`
+- Blood-test interpretation comes first → `blood-biomarkers` first
+- Optimizing strength/endurance performance → the relevant training framework + carbohydrate periodization
 
-## 추가 학습 자료
+## Further Learning
 
 - Estruch, R. et al. (2018). "Primary Prevention of Cardiovascular Disease with a Mediterranean Diet Supplemented with Extra-Virgin Olive Oil or Nuts." *NEJM* 378:e34.
-- de Lorgeril, M. et al. (1994). "Mediterranean Alpha-Linolenic Acid-Rich Diet in Secondary Prevention of Coronary Heart Disease." *Lancet* 343:1454~1459.
-- de Lorgeril, M. et al. (1999). "Mediterranean diet, traditional risk factors, and the rate of cardiovascular complications after myocardial infarction: final report of the Lyon Diet Heart Study." *Circulation* 99:779~785.
-- Willett, W. (2006). *Eat, Drink, and Be Healthy.* (대중서이나 근거 충실)
+- de Lorgeril, M. et al. (1994). "Mediterranean Alpha-Linolenic Acid-Rich Diet in Secondary Prevention of Coronary Heart Disease." *Lancet* 343:1454–1459.
+- de Lorgeril, M. et al. (1999). "Mediterranean diet, traditional risk factors, and the rate of cardiovascular complications after myocardial infarction: final report of the Lyon Diet Heart Study." *Circulation* 99:779–785.
+- Willett, W. (2006). *Eat, Drink, and Be Healthy.* (popular work, but evidence-rich)
 - Martínez-González, M.A. et al. (2019). "The Mediterranean Diet and Cardiovascular Health." *Circulation Research*.

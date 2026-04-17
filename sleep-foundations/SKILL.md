@@ -1,151 +1,151 @@
 ---
 name: sleep-foundations
 version: "0.1.0"
-description: "수면 기본기 — 성인 7~9h, 일관된 시간·광노출·카페인·알코올 관리. REM/NREM 구조. 모든 건강·훈련·인지 성과의 게이트. 개입 순서: 일관성 → 환경 → 물질 → 행동 → 약물(최후)."
+description: "Sleep fundamentals — 7–9h for adults, consistent timing, light exposure, caffeine and alcohol management. REM/NREM architecture. The gate to all health, training, and cognitive performance. Intervention order: consistency → environment → substances → behavior → medication (last resort)."
 ---
 
 # Sleep Foundations
 
-## 한 줄 요약
+## One-Line Summary
 
-**수면은 건강·훈련·인지의 게이트.** 다른 모든 개입(식이·운동·보조제)은 수면이 깨져 있으면 효율이 급락한다. 개입은 고정된 순서로: **일관성 → 광·환경 → 물질 → 행동 → 최후에 약물**.
+**Sleep is the gate to health, training, and cognition.** All other interventions (diet, exercise, supplements) collapse in efficiency when sleep is broken. Interventions follow a fixed order: **consistency → light/environment → substances → behavior → medication as last resort**.
 
-## 증거 강도
+## Evidence Strength
 
-- 성인 7~9h 권장: **강함** (NSF, AASM 합의)
-- 단기 수면 박탈이 인지·기분·면역·호르몬에 부정적: **매우 강함**
-- 장기 단축(<6h)과 전사망·심혈관·당뇨 증가: **강함** (관찰, 일부 인과 경로)
-- 일관된 취침·기상시각의 이점: **강함**
-- 아침 광노출의 서카디언 정렬 효과: **강함**
-- 보조제(멜라토닌·마그네슘) 효과: **보통~약함** (시차·특정 상황은 보통, 일반 불면에 약함)
-- "8시간 절대불변"류 단정: **약함** (개인차·연령차 존재)
+- 7–9h recommendation for adults: **Strong** (NSF, AASM consensus)
+- Short-term sleep deprivation harms cognition, mood, immunity, hormones: **Very strong**
+- Chronic short sleep (<6h) linked to all-cause mortality, cardiovascular disease, diabetes: **Strong** (observational, some causal pathways)
+- Benefits of consistent bed/wake times: **Strong**
+- Morning light exposure for circadian alignment: **Strong**
+- Supplements (melatonin, magnesium): **Moderate to weak** (moderate for jet lag and specific situations, weak for general insomnia)
+- "8 hours absolute rule" claims: **Weak** (individual and age variation exists)
 
-## 이론·증거 기원
+## Theoretical / Evidence Origins
 
-- **Matthew Walker** — *Why We Sleep* (2017). 대중서, 일부 주장은 과장 비판 있음 (Alexey Guzey 지적). 그러나 코어 과학은 견고.
-- **AASM** (American Academy of Sleep Medicine) · **NSF** 공식 권고
-- **Czeisler · Dijk** — 서카디언 생리학
-- **Borbély** — Two-Process Model (Process S 항상성, Process C 서카디언)
-- **Walker, Stickgold** — 기억·학습 통합에서의 REM/SWS 역할
+- **Matthew Walker** — *Why We Sleep* (2017). Popular science; some claims criticized as exaggerated (noted by Alexey Guzey). Core science remains solid.
+- **AASM** (American Academy of Sleep Medicine) · **NSF** official recommendations
+- **Czeisler · Dijk** — Circadian physiology
+- **Borbély** — Two-Process Model (Process S homeostatic, Process C circadian)
+- **Walker, Stickgold** — Role of REM/SWS in memory and learning consolidation
 
-## 핵심 개념
+## Core Concepts
 
-### 1. 구조 (성인 8h 예)
+### 1. Architecture (example: 8h adult sleep)
 - **NREM N1** → **N2** → **N3 (Slow-wave sleep, SWS)** → **REM**
-- 90~110분 주기, 밤에 4~6회
-- 전반부: SWS 우세 (신체 회복·성장호르몬·면역·기억 고착화)
-- 후반부: REM 우세 (정서·학습·창의)
+- 90–110 min cycles, 4–6 times per night
+- First half: SWS dominant (physical recovery, growth hormone, immunity, memory consolidation)
+- Second half: REM dominant (emotional processing, learning, creativity)
 
 ### 2. Two-Process Model
-- Process S (항상성 압력): 깨어있는 시간에 비례 상승
-- Process C (서카디언): ~24h 주기. 빛·멜라토닌·체온 리듬
-- 둘의 정렬이 깨지면 = 시차·야근·주말 늦잠의 부작용
+- Process S (homeostatic pressure): rises in proportion to time awake
+- Process C (circadian): ~24h cycle. Light, melatonin, body temperature rhythm
+- Misalignment between the two = side effects of jet lag, night shifts, weekend oversleeping
 
-### 3. 주요 파괴 요인
-- **카페인**: 반감기 5~7h. 오후 2시 이후 섭취는 개인차 크게 영향
-- **알코올**: 잠들기 쉽게 하지만 REM·SWS 파괴, 야간 각성 증가
-- **청색광·강한 스크린**: 취침 2~3h 전부터 줄이는 것이 권장, 증거는 보통
-- **취침 직전 고강도 운동·격정**: 일부에서 방해
-- **체온·소음·빛**: 17~20℃ 시원, 조용·암실 권장
-- **불규칙 일정**: 주말에 2h+ shift → "social jetlag"
+### 3. Major Disruptors
+- **Caffeine**: half-life 5–7h. Intake after 2 PM affects sensitive individuals significantly
+- **Alcohol**: eases sleep onset but destroys REM/SWS, increases nighttime awakenings
+- **Blue light / strong screens**: reducing 2–3h before bed is recommended; evidence moderate
+- **High-intensity exercise or emotional arousal right before bed**: interferes in some individuals
+- **Temperature, noise, light**: 17–20°C cool, quiet, dark environment recommended
+- **Irregular schedule**: weekend shifts of 2h+ → "social jetlag"
 
-## 개입 순서 (중요도)
+## Intervention Order (by Priority)
 
-### 1. 일관성 (Consistency) — 가장 먼저
-- 취침·기상 ±30분 고정
-- 주말 변동 <1시간
-- 알람을 **기상 기준**으로 (취침보다)
+### 1. Consistency — First
+- Bed/wake time fixed ±30 min
+- Weekend variation <1 hour
+- Set alarm on **wake time** basis (rather than bedtime)
 
-### 2. 광노출
-- **아침 10~30분 자연광** (최대 효과: 기상 1h 이내)
-- 저녁엔 실내 조도 낮추기, 따뜻한 색온도
-- 야간 근무자는 별도 프로토콜
+### 2. Light Exposure
+- **10–30 min of natural morning light** (maximum effect: within 1h of waking)
+- Dim indoor lighting and use warm color temperatures in the evening
+- Night shift workers require separate protocol
 
-### 3. 물질
-- 카페인: 아침~정오까지만, 민감자는 오전만
-- 알코올: 취침 3h 전까지, 주 소량
-- 니코틴: 각성제 — 가능하면 제거
+### 3. Substances
+- Caffeine: morning to noon only; morning only for sensitive individuals
+- Alcohol: stop 3h before bed, light quantities weekly
+- Nicotine: stimulant — eliminate if possible
 
-### 4. 환경
-- 온도 17~20℃
-- 암막 / 수면안대
-- 소음 차단 / 화이트 노이즈
-- 침대는 "수면·섹스 전용" (침대 업무·스마트폰 줄이기)
+### 4. Environment
+- Temperature 17–20°C
+- Blackout / sleep mask
+- Noise blocking / white noise
+- Bed is for "sleep and sex only" (reduce bed-based work and smartphone use)
 
-### 5. 행동(CBT-I 요소)
-- 잠 안 오면 20분 후 기상, 조용한 일 후 재도전 (Stimulus Control)
-- 수면 제한: 침대 시간 = 실제 수면시간 + 15분부터 확장
-- 이완 기법: 4-7-8 호흡, 점진적 근이완
-- 걱정 일기: 취침 전 30분, 하루 마무리
+### 5. Behavior (CBT-I Elements)
+- If unable to sleep, get up after 20 min, do something quiet, then retry (Stimulus Control)
+- Sleep restriction: time in bed = actual sleep time + 15 min, then expand
+- Relaxation: 4-7-8 breathing, progressive muscle relaxation
+- Worry journal: 30 min before bed, wrap up the day
 
-### 6. 마지막: 보조제·약물
-- **멜라토닌** 0.3~1mg (저용량): 시차·서카디언 phase shift에 유효. 일반 불면에는 증거 약함
-- **마그네슘 글리시네이트** 200~400mg: 결핍 시 보조적
-- **L-테아닌** 100~200mg: 이완 보조, 근거 중간
-- 처방약(졸피뎀·벤조디아제핀): **단기만**, 의사 처방. 의존·기억장애
-- 슈퍼마켓 "수면 보조제" 대부분 증거 약함
+### 6. Last Resort: Supplements and Medication
+- **Melatonin** 0.3–1mg (low dose): effective for jet lag and circadian phase shift. Weak evidence for general insomnia
+- **Magnesium glycinate** 200–400mg: supportive if deficient
+- **L-theanine** 100–200mg: relaxation aid, moderate evidence
+- Prescription drugs (zolpidem, benzodiazepines): **short-term only**, doctor-prescribed. Dependence and memory impairment
+- Most supermarket "sleep aids" have weak evidence
 
-## 측정
+## Measurement
 
-- 수면 일기 (취침·기상·각성 수)
-- 웨어러블 (Oura·Garmin·Whoop·Apple Watch): 수면시간은 유용, 스테이지 정확도는 제한
-- 주관 피로·주간 각성 (Epworth Sleepiness Scale)
-- PSG(polysomnography)는 진단 시 의료기관
+- Sleep diary (bed/wake times, awakening count)
+- Wearables (Oura, Garmin, Whoop, Apple Watch): sleep duration is useful, stage accuracy is limited
+- Subjective fatigue and daytime alertness (Epworth Sleepiness Scale)
+- PSG (polysomnography) performed at a medical facility for diagnosis
 
-## 병리 신호 — 의사 상담
+## Pathological Signs — See a Doctor
 
-- 큰 코골이 + 주간 심한 졸림 → **수면무호흡증(OSA)** 의심. 배우자 관찰·심박 드롭·AHI 검사. 체중과 무관하게 발생 (한국인 OSA 유병률 높음, 턱·목 해부학 요인)
-- **STOP-BANG** 스크리닝 (Snoring·Tired·Observed apnea·BP·BMI>35·Age>50·Neck>40cm·Male) ≥3점 → 수면다원검사 의뢰
-- 3개월 이상 주 3일+ 불면 → **만성불면증** → CBT-I 1차 (약물 아님)
-- REM 행동장애 (꿈 중 폭력적 행동) — 파킨슨 전조 가능
-- 다리 이상감각·움직임 → **RLS** (철 결핍과 연관, 페리틴 확인)
-- 수면 중 심한 부정맥·가슴답답
+- Loud snoring + severe daytime sleepiness → suspect **Obstructive Sleep Apnea (OSA)**. Spouse observation, heart rate drops, AHI test. Occurs regardless of weight (Koreans have high OSA prevalence due to jaw/neck anatomy)
+- **STOP-BANG** screening (Snoring, Tired, Observed apnea, BP, BMI>35, Age>50, Neck>40cm, Male) ≥3 points → refer for polysomnography
+- Insomnia 3+ days/week for 3+ months → **chronic insomnia** → CBT-I as first line (not medication)
+- REM behavior disorder (violent behavior during dreams) — possible Parkinson's precursor
+- Leg paresthesias or movements → **RLS** (linked to iron deficiency, check ferritin)
+- Severe arrhythmia or chest tightness during sleep
 
-## 한국 직장인·부모 현실 보정
+## Korean Worker and Parent Reality Adjustments
 
-- **회식 후 늦은 귀가·음주** → 알코올 대사 3~4h 소요, REM 파괴. 주 1회 이하 억제. 귀가 후 수분·무카페인
-- **야근·통근 1시간+** → 6h 이하 상습화 시 수면 7h 확보를 위해 주 3일은 22:30 취침 앵커
-- **육아 (영유아·초등 저학년)** → 짧은 수면·분절 수면 불가피. 주 1~2회 배우자와 "수면 교대", 20~30분 낮잠 허용 (밤 수면 영향 주의)
-- **교대근무** → 별도 프로토콜 필요 (Bright Light + 멜라토닌 타이밍, 근무 후 암막). 수면위생만으론 한계, 의사 상담
-- **주말 몰아자기 문화** — "social jetlag" 2시간+면 월요병 심화. ±1시간 내 유지
+- **Late returns and drinking after hoesik (회식)** → alcohol metabolism takes 3–4h, destroys REM. Limit to once per week or less. Hydrate and avoid caffeine after returning
+- **Overtime, 1+ hour commute** → if 6h or less becomes habitual, anchor 22:30 bedtime on 3 days/week to secure 7h
+- **Childcare (infants, young schoolchildren)** → short, fragmented sleep unavoidable. "Sleep relay" with spouse 1–2 times/week, allow 20–30 min naps (beware impact on night sleep)
+- **Shift work** → separate protocol needed (Bright Light + melatonin timing, blackout after shift). Sleep hygiene alone has limits, consult a doctor
+- **Weekend catch-up sleep culture** — "social jetlag" of 2+ hours worsens Monday fatigue. Maintain within ±1 hour
 
-## 여성·고령 특례
+## Women and Elderly Special Cases
 
-- **여성 생리주기**: 황체기 (생리 전) 체온 상승으로 수면 분절·얕은 수면 경험. 침실 온도 2~3℃ 낮추기
-- **임신·산후·폐경기 홍조**: 호르몬 영향. 폐경기 불면 지속 시 산부인과·HRT 고려
-- **고령자**: SWS 자연 감소·수면 분절 정상. 낮잠 30분 이하. 멜라토닌 분비 감소로 저용량(0.5mg) 고려 — 의사와
+- **Women's menstrual cycle**: during luteal phase (pre-menstrual), elevated body temperature causes fragmented and lighter sleep. Lower bedroom temperature by 2–3°C
+- **Pregnancy, postpartum, menopausal hot flashes**: hormonal effects. If menopausal insomnia persists, consider OB-GYN and HRT
+- **Elderly**: natural decline in SWS and sleep fragmentation is normal. Naps 30 min or less. Reduced melatonin secretion, consider low-dose (0.5mg) — with a doctor
 
-## 안티패턴
+## Anti-Patterns
 
-- **주말 몰아자기로 보상** — 서카디언 교란, 월요일 악화
-- **"난 5시간이면 충분"** — 대부분 만성 박탈의 자기기만
-- **술로 잠자기** — REM 파괴, 야간 각성 증가
-- **수면 추적기 숫자에 강박** — "orthosomnia" 유발
-- **멜라토닌 고용량(5~10mg)** — 저용량이 오히려 유효. 다량은 익일 잔류감
-- **취침 직전 격한 운동** (개인차 있음 — 본인 반응으로)
-- **자기 전 걱정 리스트 정리 안 함** — 각성 연장
-- **블루라이트 차단 안경에 과도 의존** — 효과 미미
+- **Compensating with weekend catch-up sleep** — disrupts circadian rhythm, worsens Monday
+- **"I'm fine on 5 hours"** — most are self-deceived about chronic deprivation
+- **Drinking to sleep** — destroys REM, increases night awakenings
+- **Obsession over sleep tracker numbers** — induces "orthosomnia"
+- **High-dose melatonin (5–10mg)** — low doses actually more effective. High doses cause next-day grogginess
+- **Intense exercise right before bed** (individual variation — test your response)
+- **Not organizing worry list before bed** — prolongs arousal
+- **Over-reliance on blue-light-blocking glasses** — minor effect
 
-## 한계
+## Limitations
 
-1. **개인차 큼** — 최적 시간·크로노타입(아침형/저녁형) 다름
-2. **연령에 따라 수면 구조 변화** — 고령자 SWS 감소는 정상
-3. **직업 제약** — 교대근무·육아·장거리 운전은 이상적 수면 불가
-4. **비불면 원인** — OSA·우울·통증·약물 부작용이면 수면 위생만으론 해결 안 됨
-5. **Walker 저서 일부 통계 과장** 비판 존재. 코어는 유효
-6. **단일 밤의 변동은 무의미** — 주 단위 추세 봐라
+1. **Large individual differences** — optimal duration and chronotype (morning/evening type) vary
+2. **Sleep architecture changes with age** — reduced SWS in elderly is normal
+3. **Occupational constraints** — shift work, childcare, long-distance driving prevent ideal sleep
+4. **Non-insomnia causes** — OSA, depression, pain, drug side effects cannot be solved by sleep hygiene alone
+5. **Criticism exists that some statistics in Walker's book are exaggerated**. Core remains valid
+6. **Single-night variation is meaningless** — look at weekly trends
 
-## 함께 쓰는 것·이 프레임워크가 *틀렸을 때*
+## Used With / When This Framework *Is Wrong*
 
-- 훈련 과잉 의심 → `recovery-periodization`
-- 혈액·호르몬 배제 → `blood-biomarkers` (갑상선·철·비타민D·코르티솔)
-- 식단·카페인 구조화 → `macro-tracking` · `mediterranean-diet`
-- 심리적 스트레스 우선 → `counsel` (CBT·MBSR) 외부 스킬
+- Suspected overtraining → `recovery-periodization`
+- Rule out blood/hormone issues → `blood-biomarkers` (thyroid, iron, vitamin D, cortisol)
+- Structuring diet and caffeine → `macro-tracking` · `mediterranean-diet`
+- Psychological stress as primary cause → `counsel` (CBT, MBSR) external skill
 
-## 추가 학습 자료
+## Further Learning Resources
 
-- Walker, M. (2017). *Why We Sleep.* (코어 과학 기반, 일부 과장 비판 병행 읽기)
-- Guzey, A. (2019). "Matthew Walker's 'Why We Sleep' Is Riddled with Scientific and Factual Errors." (비판 참고)
+- Walker, M. (2017). *Why We Sleep.* (core science-based; read alongside critiques of exaggeration)
+- Guzey, A. (2019). "Matthew Walker's 'Why We Sleep' Is Riddled with Scientific and Factual Errors." (critical reference)
 - Hirshkowitz, M. et al. (2015). "National Sleep Foundation's updated sleep duration recommendations." *Sleep Health.*
 - AASM Clinical Practice Guidelines for Chronic Insomnia (CBT-I).
-- Borbély, A. *The Pharmacology of the Two-Process Model.* 현대 서카디언 생리학 교재
+- Borbély, A. *The Pharmacology of the Two-Process Model.* Modern circadian physiology textbook
