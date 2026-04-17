@@ -65,3 +65,7 @@ The meta-router classifies purpose, symptoms, and level, then selects 1–3 fram
 - Figures presented (protein g/kg, target heart rate, biomarker reference ranges, etc.) are based on general adult populations; individual variation is substantial.
 - You bear full responsibility for outcomes from changes to supplements, diet, or training protocols.
 - Acute symptoms (chest pain, fainting, severe fatigue, sudden weight change, etc.) require clinical care — not a framework.
+
+## License
+
+CC-BY-NC-4.0 — see [LICENSE](LICENSE) for details. Commercial licensing: ironyjk@gmail.com
