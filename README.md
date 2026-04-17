@@ -2,7 +2,7 @@
 
 건강·트레이닝 의사결정을 위한 메타 라우터 + 프레임워크 컬렉션.
 
-영양(지중해식·저탄수·간헐적 단식·매크로 트래킹), 훈련(점진적 과부하·근력·근비대·지구력), 수면·회복, 측정·진단(혈액 바이오마커·체성분) 12개 프레임워크를 하나의 라우팅 레이어에 묶는다.
+영양(지중해식·저탄수·간헐적 단식·매크로 트래킹), 훈련(점진적 과부하·근력·근비대·지구력), 수면·회복, 측정·진단(혈액 바이오마커·체성분), 직업성 건강 13개 프레임워크를 하나의 라우팅 레이어에 묶는다.
 
 ## 설계 원칙
 
@@ -27,7 +27,8 @@ health-framework/
 ├── sleep-foundations/         # 7~9h · 일관성 · 광노출
 ├── recovery-periodization/    # SRA · HRV · deload
 ├── blood-biomarkers/          # ApoB · HbA1c · hs-CRP · 비타민D
-└── body-composition/          # DEXA · BIA · FFMI · 허리둘레
+├── body-composition/          # DEXA · BIA · FFMI · 허리둘레
+└── occupational-health/       # 반복 작업·교대 근무·산재·업무성 근골격계 (v0.2.0)
 ```
 
 ## 사용
