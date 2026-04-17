@@ -39,6 +39,8 @@ health-framework/
 
 메타 라우터가 목적·증상·레벨을 분류해 1~3개 프레임워크를 선택, Skill 툴로 실행·합성.
 
+> 💡 **짧은 이름**: [래퍼 설정](https://github.com/ironyjk/claude-frameworks-marketplace#짧은-이름으로-쓰기-optional) 후 `/fit`으로 호출 가능
+
 ## 범위 바깥
 
 - 질병 치료·약물 처방 (→ 의사)
