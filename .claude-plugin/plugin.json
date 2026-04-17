@@ -1,0 +1,27 @@
+{
+  "name": "health-framework",
+  "description": "Health & training meta-router — 12 evidence-based frameworks (Mediterranean Diet/PREDIMED, Low Carb/Keto, Intermittent Fasting, Macro Tracking, Progressive Overload, Strength Basics, Hypertrophy Volume, Polarized Endurance, Sleep Foundations, Recovery & Periodization, Blood Biomarkers, Body Composition). RCT/meta-analysis grade only. NOT medical advice. Invoke /fit.",
+  "version": "0.2.0",
+  "author": {
+    "name": "Choi Hee Chul",
+    "email": "ironyjk@gmail.com"
+  },
+  "homepage": "https://github.com/ironyjk/health-framework",
+  "repository": "https://github.com/ironyjk/health-framework",
+  "license": "CC-BY-NC-4.0",
+  "keywords": ["health", "training", "nutrition", "sleep", "biomarkers", "evidence-based"],
+  "skills": [
+    "./blood-biomarkers",
+    "./body-composition",
+    "./hypertrophy-volume",
+    "./intermittent-fasting",
+    "./low-carb-keto",
+    "./macro-tracking",
+    "./mediterranean-diet",
+    "./polarized-endurance",
+    "./progressive-overload",
+    "./recovery-periodization",
+    "./sleep-foundations",
+    "./strength-basics"
+  ]
+}
