@@ -9,8 +9,16 @@
   "homepage": "https://github.com/ironyjk/health-framework",
   "repository": "https://github.com/ironyjk/health-framework",
   "license": "CC-BY-NC-4.0",
-  "keywords": ["health", "training", "nutrition", "sleep", "biomarkers", "evidence-based"],
+  "keywords": [
+    "health",
+    "training",
+    "nutrition",
+    "sleep",
+    "biomarkers",
+    "evidence-based"
+  ],
   "skills": [
+    "./fit",
     "./blood-biomarkers",
     "./body-composition",
     "./hypertrophy-volume",
