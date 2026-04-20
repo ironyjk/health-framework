@@ -4,7 +4,7 @@ version: "0.3.0"
 last_verified: "2026-04-17"
 valid_until: "2026-10-17"
 description: "Health & training meta-router — auto-selects from 13 evidence-based frameworks (nutrition, training, sleep, measurement, occupational health) based on goal (loss/gain/strength/endurance/healthspan/rehab) and symptoms. RCT/meta-analysis-grade evidence only. NOT medical advice. Occupational etiology branch built-in (repetitive work, shift work, heavy lifting)."
-tools: ["Read", "Write", "Edit", "Skill"]
+tools: ["Read", "Write", "Edit", "Skill", "Agent"]
 dependencies:
   - mediterranean-diet
   - low-carb-keto
@@ -199,6 +199,17 @@ This repo **does not cover or warns against**:
 - **"Autophagy maximization" extended fasting 72h+ repeated**
 - "Squats damage the knee" myth (it's technique / load management, not the exercise itself — Jäger 2017 ISSN Protein Position, Devries 2018 meta)
 - "Protein destroys the kidney" myth (1.6~2.2 g/kg safe in healthy kidneys)
+
+
+## Execution Strategy
+
+1. **Route** -- classify the problem, select 1-3 sub-skills
+2. **Confirm** -- verify goal/level/context with the user before analysis
+3. **Execute** -- call sub-skills via the Skill tool (read their SKILL.md for execution protocol)
+4. **Synthesize** -- combine results, expose conflicts, give concrete next steps
+5. **Measure** -- propose 1-2 metrics to track over 4-12 weeks
+
+When a sub-skill needs background theory, read its `references/foundation.md`. Execute using its `SKILL.md`.
 
 ## Output format
 

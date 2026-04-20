@@ -1,35 +1,18 @@
 ---
 name: strength-basics
-version: "0.1.0"
+version: "0.2.0"
 description: "Strength fundamentals program — compound lifts (squat, deadlift, bench, overhead press, row) with low-rep, high-load focus. 5x5, 5/3/1, Starting Strength, StrongLifts, Texas Method. The most efficient route to strength gains for beginners to intermediates."
 ---
 
 # Strength Basics
 
+> **Background and theory**: Read [references/foundation.md](references/foundation.md)
+
+
 ## One-Line Summary
 
 **Compound barbell lifts + low reps (1–5) + 2–4 sessions per week + progressive load increase.** Every famous strength program is a variation of this structure. The fastest path to strength for beginners and intermediates.
 
-## Evidence Strength
-
-**Strong.** Decades of literature document the neural adaptation and strength gains from compound, low-rep strength training.
-
-## Theoretical and Evidentiary Origins
-
-- **Bill Starr** — *The Strongest Shall Survive* (1976). The prototype of 5x5
-- **Mark Rippetoe** — *Starting Strength* (2005). The standard linear novice program
-- **Jim Wendler** — *5/3/1* (2009). Wave-style program for intermediate and advanced lifters
-- **Glenn Pendlay · Mark Bell · Reg Park** lineage
-- **Zatsiorsky** — Three principles of strength development: Maximal Effort, Dynamic Effort, Repeated Effort
-
-## Core Compound Lifts (Big Lifts)
-
-1. **Back Squat** — whole-body lower-body and trunk
-2. **Deadlift** — posterior chain
-3. **Bench Press** — upper-body horizontal push
-4. **Overhead Press** (Military Press) — vertical push
-5. **Barbell Row / Chin-up** — horizontal and vertical pull
-6. (Optional) Power Clean · Front Squat
 
 ## Snapshot of Core Programs
 
@@ -75,6 +58,7 @@ Alternating upper and lower days
 Micro load on failure
 ```
 
+
 ## When to Use
 
 - **Absolute strength (1RM) gains** are the top priority
@@ -82,6 +66,7 @@ Micro load on failure
 - **Sarcopenia prevention in middle age and beyond**
 - **Base physical capacity for sports performance**
 - **Limited time** but need for a strong stimulus
+
 
 ## Program Selection Decision Tree
 
@@ -96,6 +81,7 @@ Micro load on failure
 3. Secondary goals (hypertrophy, conditioning)?
    Hypertrophy alongside → 5/3/1 BBB or add hypertrophy-volume
 ```
+
 
 ## Practical Checklist
 
@@ -116,6 +102,7 @@ Micro load on failure
 - 7–9h. Sleep deprivation on a strength program means "next set −5 kg"
 - Deload 1x/week or respect program-specific data
 
+
 ## Antipatterns
 
 - **Jumping to advanced programs too quickly** — don't run Sheiko or Smolov in month 3
@@ -129,6 +116,7 @@ Micro load on failure
 - **Attempting max 1RM with Valsalva in hypertensives** — BP spike. Work at RPE 7–8 / RIR 2–3
 - **"Squats ruin the knees" myth** — this is a technique and load management issue. Squats on healthy knees benefit joint health
 - **Only light weight + high reps for women** — insufficient strength and hypertrophy stimulus. Program structure is identical for men and women
+
 
 ## Return-to-Lifting Loading Rules After Injury
 
@@ -146,6 +134,7 @@ Phase 4 (weeks 8–12): Return to previous working loads. 1RM testing only after
 - On relapse, back off 2 phases
 - Pain is a signal, not evidence of weakness. Ignoring and pushing through leads to chronicity
 
+
 ## Resistance Training Protocol for Hypertensives
 
 - **Measure BP before the session** (manual or electronic device)
@@ -155,6 +144,7 @@ Phase 4 (weeks 8–12): Return to previous working loads. 1RM testing only after
 - Rest 2–3+ minutes between sets
 - Breathing: exhale on the concentric and inhale on the eccentric (minimize Valsalva)
 - Avoid prolonged head-below positions (e.g., original version of inverted rows)
+
 
 ## Exercise Substitutions (Injury, Anatomical Constraints)
 
@@ -167,6 +157,7 @@ Phase 4 (weeks 8–12): Return to previous working loads. 1RM testing only after
 | **Wrist mobility** | Front squat (cross grip), goblet | Use straps |
 | **Elderly / arthritic** | Barbell → mix with dumbbells and machines acceptable. ROM compromise permitted | 8–12 reps |
 
+
 ## Special Considerations for Older Adults (65+) Strength Training
 
 - **Evidence very strong** — resistance training in older adults reduces sarcopenia, falls, and mortality (Fragala 2019 NSCA position)
@@ -177,12 +168,14 @@ Phase 4 (weeks 8–12): Return to previous working loads. 1RM testing only after
 - **Vitamin D and calcium** alongside (fracture-prevention meta-analyses)
 - Begin any program after medical screening
 
+
 ## Special Considerations for Women
 
 - **Men's and women's resistance training responses are fundamentally identical**, absolute loads differ. The "women are different, so high reps only" myth
 - **Cycle considerations (optional)**: luteal phase (5–7 days pre-menses) brings elevated body temperature and RPE → reduce volume 10–20% or keep intensity with extra RIR. Follicular phase favors PR attempts. Evidence is moderate with large individual variation
 - **Menopause and postmenopause**: window of rapid sarcopenia and BMD decline. **Resistance training importance actually rises.** 1.2–1.6 g/kg protein, calcium, vitamin D
 - **RED-S warning**: 3+ months of amenorrhea, fatigue, or recurrent stress fractures = reassess training and nutrition (Mountjoy 2018 IOC)
+
 
 ## Limitations
 
@@ -193,6 +186,7 @@ Phase 4 (weeks 8–12): Return to previous working loads. 1RM testing only after
 5. **Requires modification for those with injury history, seniors, adolescents** (see substitution table above)
 6. **Frequent 1RM testing is counterproductive** — 4–12 week intervals. Estimate via the **Epley formula**: `1RM ≈ weight × (1 + reps/30)`
 
+
 ## Companion Tools · When This Framework Is *Wrong*
 
 - Understanding overload principle → `progressive-overload`
@@ -200,11 +194,3 @@ Phase 4 (weeks 8–12): Return to previous working loads. 1RM testing only after
 - Recovery and deload design → `recovery-periodization`
 - Dietary support → `macro-tracking`
 - Combining endurance → `polarized-endurance` (2x/week Z2 conflicts little with strength)
-
-## Further Learning Resources
-
-- Rippetoe, M. *Starting Strength* (3rd ed.)
-- Wendler, J. *5/3/1 Forever.*
-- Rippetoe, M. & Baker, A. *Practical Programming for Strength Training.*
-- Zatsiorsky, V., Kraemer, W. *Science and Practice of Strength Training.*
-- Starting Strength Wiki · Barbell Medicine podcast

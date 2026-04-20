@@ -1,53 +1,18 @@
 ---
 name: progressive-overload
-version: "0.1.0"
+version: "0.2.0"
 description: "Progressive Overload — the foundational principle of all exercise adaptation. Stimulus must continuously exceed what came before for strength, hypertrophy, and endurance adaptations to occur. Design overload through five variables: load, volume, frequency, range, and density."
 ---
 
 # Progressive Overload
 
+> **Background and theory**: Read [references/foundation.md](references/foundation.md)
+
+
 ## One-Line Summary
 
 **The body adapts only when the stimulus continuously exceeds what came before.** Repeating the same stimulus yields nothing beyond maintenance. Load is not the only variable — overload is the combination of five variables (load, reps, sets, frequency, range, density).
 
-## Evidence Strength
-
-**Very strong.** Close to an axiom in 100+ years of exercise physiology. Nearly all empirical data on program design supports it.
-
-## Theoretical and Empirical Origins
-
-- **Thomas DeLorme** (1945) — clinical evidence for "progressive resistance exercise" in post-knee-surgery rehabilitation
-- **Hans Selye** — General Adaptation Syndrome (GAS): Alarm → Resistance → Exhaustion
-- **Yuri Verkhoshansky · Matveev** — periodization theory
-- **SAID principle** — Specific Adaptation to Imposed Demands
-- **Zatsiorsky & Kraemer** — *Science and Practice of Strength Training*
-
-## Core Concepts
-
-### 1. The Five Variables of Overload
-
-| Variable | Example | Beginner | Intermediate/Advanced |
-|---|---|---|---|
-| **Intensity** (%1RM · RPE) | 60kg → 62.5kg | Primary | Primary |
-| **Volume** (sets × reps) | 3x8 → 4x8 | Secondary | **Primary** |
-| **Frequency** (sessions per week) | 1x → 2x | Already elevated | Fine-tune |
-| **Range of Motion** | Partial → Full | After technique stabilizes | Maintain |
-| **Density** (reduced rest) | 3 min → 2 min | Secondary | For conditioning purposes |
-
-### 2. The Adaptation Curve
-- Beginner (0–6 months): Responds to nearly any stimulus. Linear progression possible
-- Intermediate (6–24 months): Requires weekly-to-block progression
-- Advanced (24+ months): Monthly-to-quarterly cycles. Fine-tune only one or two variables at a time
-
-### 3. MEV · MAV · MRV (Volume Landmarks)
-- MEV: Minimum Effective Volume
-- MAV: Maximum Adaptive Volume
-- MRV: Maximum Recoverable Volume
-- Overload accumulates in the MEV→MAV range. When MRV is continuously exceeded, move to `recovery-periodization`
-
-### 4. The Role of the Deload
-- Exists as a pair with overload. Every 2–6 weeks, reduce volume and intensity by 40–60%
-- Adaptation happens during recovery, not during stress
 
 ## When to Use It
 
@@ -55,6 +20,7 @@ description: "Progressive Overload — the foundational principle of all exercis
 - **Plateau diagnosis** — "Have the load, volume, or frequency of this exercise moved in the last 4 weeks?"
 - **Beginner program design** — linear progression
 - **Intermediate/advanced reassessment** — consciously choose which variable you're overloading
+
 
 ## Practical Application
 
@@ -102,11 +68,13 @@ On days when linear progression is impractical (sleep deprivation, stress, post-
 - **Top set + back-off**: record 1 set @RPE 9 → 2–3 back-off sets at -10% @RPE 7
 - RPE judgment is inaccurate during the first 3–6 months. Reference Tuchscherer RTS and Helms discussions
 
+
 ## Measurement
 
 - **A training log is mandatory** (date, exercise, load, reps, RPE, sets)
 - Track RPE or RIR (Reps in Reserve)
 - Self-review every 3–4 weeks: "What went up compared to the prior period?"
+
 
 ## Anti-Patterns
 
@@ -119,6 +87,7 @@ On days when linear progression is impractical (sleep deprivation, stress, post-
 - **Progressing too aggressively** — the nervous system adapts quickly, connective tissue slowly. Tendon and joint injuries are common
 - **Testing 1RM too often** — erodes weekly training adaptation. Space tests 4–12 weeks apart
 
+
 ## Limitations
 
 1. **Infinite progression is impossible** — genetics, age, and training age impose ceilings
@@ -127,6 +96,7 @@ On days when linear progression is impractical (sleep deprivation, stress, post-
 4. **Requires accurate measurement** — without records, you're judging overload subjectively → misjudgment
 5. **Individual differences in recovery** — the same volume is MEV for one person and MRV for another
 
+
 ## What It Pairs With · When This Framework Is *Wrong*
 
 - Program selection (beginner) → `strength-basics`
@@ -134,11 +104,3 @@ On days when linear progression is impractical (sleep deprivation, stress, post-
 - Recovery and deload design → `recovery-periodization`
 - "Overload" in endurance → `polarized-endurance` (intensity distribution)
 - Dietary support → `macro-tracking` (recognize that overload is harder in a deficit)
-
-## Further Reading
-
-- Zatsiorsky, V., Kraemer, W. *Science and Practice of Strength Training.*
-- Schoenfeld, B. *Science and Development of Muscle Hypertrophy.*
-- Rippetoe, M. *Starting Strength.* (beginner linear model)
-- Wendler, J. *5/3/1 Forever.*
-- Helms et al. *The Muscle & Strength Pyramid: Training.*

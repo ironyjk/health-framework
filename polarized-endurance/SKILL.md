@@ -1,60 +1,18 @@
 ---
 name: polarized-endurance
-version: "0.1.0"
+version: "0.2.0"
 description: "Polarized endurance training — Seiler 80/20. Low intensity (Z1~Z2) 80% + high intensity (VO2max·threshold) 20%, avoid moderate intensity. Based on observation of elite endurance athletes. Applies to cycling, running, cross-country."
 ---
 
 # Polarized Endurance Training
 
+> **Background and theory**: Read [references/foundation.md](references/foundation.md)
+
+
 ## One-Line Summary
 
 **Spend ~80% of training time at easy (Z1~Z2) intensity, ~20% at very hard (Z4~Z5) intensity.** Avoid the in-between "moderate intensity" (Z3, prolonged tempo/threshold) — poor adaptation relative to fatigue accumulated — **the fatigue-to-adaptation ratio trade-off**.
 
-## Strength of Evidence
-
-- Actual distribution in elite endurance athletes: **strong** (many observational studies, Seiler, Esteve-Lanao, Tønnessen)
-- Polarized vs threshold-focused RCTs: **moderate** (crossover studies mixed, effect sizes ±)
-- Similar benefits in recreational~intermediate athletes: **moderate** (Stöggl & Sperlich 2014, etc.)
-- Magic of the exact 80/20 ratio: **weak** (75~90/10~25 range performs similarly)
-
-## Theoretical·Evidential Origins
-
-- **Stephen Seiler** (Norway) — distribution studies of elite cross-country, rowing, cycling
-- **Esteve-Lanao, Seiler, Foster** — distance runner distribution and outcomes
-- **Stöggl, T. & Sperlich, B.** (2014, 2015) — "Polarized training has greater impact..." Frontiers in Physiology
-- **MAF method (Maffetone)** · **Z2 emphasis (Iñigo San Millán · Peter Attia)** — mitochondrial function and metabolic flexibility
-
-## Core Concepts
-
-### 1. Intensity Zones (5-zone basis)
-
-| Zone | Intensity | Metabolism | Perception | Breathing |
-|---|---|---|---|---|
-| Z1 | Recovery | Fat | Very easy, free conversation | Nasal |
-| **Z2** | Aerobic base | Fat+carbs | Easy, complete sentences possible | Slight mouth |
-| Z3 | Tempo | Mixed | Short speech, steady discomfort | Heavy |
-| Z4 | Threshold | Mainly carbs | Only short words | Heavy |
-| **Z5** | VO2max/Anaerobic | Carbs·anaerobic | Cannot speak | Gasping |
-
-### 2. Seiler's 3-Zone Consolidation
-- Zone 1 (low) = Z1+Z2 → **80%** of time
-- Zone 2 (moderate) = Z3+threshold → **<10%**
-- Zone 3 (high) = VO2max+ → **~20%**
-
-### 3. Why Is Moderate Intensity Inefficient?
-- Fatigue accumulates quickly vs. Z2 is more efficient for mitochondrial density·LT improvement
-- VO2max improvement is most potent from short Z5 intervals
-- Z3-centric is the trap of being "moderately tired yet only moderately improving"
-
-### 4. FTP·LT·VO2max Key Tests
-- **FTP (Functional Threshold Power)**: maximum sustainable output for 1 hour (cycling)
-- **LT1/LT2**: blood lactate thresholds
-- **VO2max test**: laboratory or Ramp test
-
-### 5. Heart Rate·Power Based
-- Heart rate: % of MaxHR·LTHR
-- Power (power meter): %FTP — highest accuracy in cycling
-- Running: mix of pace·HR·RPE
 
 ## When to Use
 
@@ -63,6 +21,7 @@ description: "Polarized endurance training — Seiler 80/20. Low intensity (Z1~Z
 - **5h+/week available time** (other distributions valid for ≤3h/week)
 - **History of overreaching·burnout** — rebuild low-intensity base
 - **Metabolic health purpose** — Z2-centric 3~5h/week
+
 
 ## Practical Programs
 
@@ -98,6 +57,7 @@ Threshold run 1~2x/month or skip
 - HR: roughly 60~72% of maxHR or below LT1
 - Cycling: roughly 55~75% of FTP
 
+
 ## Measurement·Progression
 
 - Track weekly TSS/CTL (TrainingPeaks·Intervals.icu·Zwift)
@@ -114,6 +74,7 @@ Threshold run 1~2x/month or skip
 | 60s | 33~39 | 28~33 |
 Well-trained cyclists·runners add +10 or more. Based on Cooper Institute, significant individual variation.
 
+
 ## Korean Cyclist·Runner Reality
 
 - **Han River·Tancheon·Paldang** and other urban riding routes: traffic signals·vehicles·congestion. Z2 maintenance difficult → use quiet hours (early morning)·suburban routes
@@ -122,11 +83,13 @@ Well-trained cyclists·runners add +10 or more. Based on Cooper Institute, signi
 - **Runner joint burden** — high ratio of asphalt·concrete in Korea. Recommend grass·dirt trails once per week or swimming·cycling cross-training
 - **Summer 35℃+ / Winter below -5℃** — in extreme temperatures, reduce intensity -10~15%, explicitly supplement hydration·electrolytes
 
+
 ## Women·Elderly Considerations
 
 - **Female endurance athletes**: particularly high risk of iron deficiency·RED-S. Clear performance decline when ferritin <30. Recommend CBC + ferritin test every 6 months
 - **Seniors (50+)**: compress to Z2 3~5h/week + VO2 1x/week. May need 72h+ recovery. Cycling·swimming advantageous due to joint burden
 - **Menopause**: maintain resistance training proportion to prevent sarcopenia·bone density loss. Running alone is insufficient osteoporosis defense
+
 
 ## Anti-Patterns
 
@@ -139,6 +102,7 @@ Well-trained cyclists·runners add +10 or more. Based on Cooper Institute, signi
 - **Claiming high-carb Z2 ruins fat adaptation** — irrelevant for most athletes. Carb supplementation essential for long sessions
 - **Inaccurate HR sensor operation** — prioritize chest strap over optical, especially at high intensity
 
+
 ## Limitations
 
 1. **Time vs. efficacy** — with ≤3h/week, "THR-focused" or mixed approach may be more efficient
@@ -148,6 +112,7 @@ Well-trained cyclists·runners add +10 or more. Based on Cooper Institute, signi
 5. **Blood lactate measurement burden** — portable devices exist but have practical limits
 6. **Competition specificity** — official protocols may differ for gran fondo·criterium·track events
 
+
 ## Companion Tools·When This Framework Is *Wrong*
 
 - Recovery·periodization → `recovery-periodization` (HRV, deload weeks)
@@ -155,11 +120,3 @@ Well-trained cyclists·runners add +10 or more. Based on Cooper Institute, signi
 - Weight management → `macro-tracking` (sharp performance drop when deficit is excessive relative to training volume)
 - Diet quality → `mediterranean-diet`
 - Cardiovascular·blood monitoring → `blood-biomarkers`
-
-## Further Learning Resources
-
-- Seiler, S. (2010). "What is Best Practice for Training Intensity and Duration Distribution in Endurance Athletes?" *IJSPP.*
-- Stöggl, T., Sperlich, B. (2014). "Polarized training has greater impact..." *Frontiers in Physiology.*
-- Rønnestad, B.R. et al. (2020). "Short intervals induce superior training adaptations..." *Scand J Med Sci Sports.*
-- Fitzgerald, M. *80/20 Running.*
-- San Millán, I. · Attia, P. podcasts·lectures (Z2·mitochondrial function)
