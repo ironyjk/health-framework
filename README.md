@@ -66,6 +66,18 @@ The meta-router classifies purpose, symptoms, and level, then selects 1–3 fram
 - You bear full responsibility for outcomes from changes to supplements, diet, or training protocols.
 - Acute symptoms (chest pain, fainting, severe fatigue, sudden weight change, etc.) require clinical care — not a framework.
 
+## Attribution & Trademarks
+
+This project implements evidence-based health and training frameworks for educational purposes. The following trademarks are acknowledged:
+
+- **Starting Strength®** is a registered trademark of Mark Rippetoe / The Aasgaard Company.
+- **StrongLifts 5×5™** is a trademark of Mehdi Hadim (stronglifts.com).
+- **InBody®** is a registered trademark of InBody Co., Ltd.
+
+All other framework names reference published academic/scientific works and are used descriptively.
+
+This project is not affiliated with, endorsed by, or sponsored by any of the above trademark holders.
+
 ## License
 
 CC-BY-NC-4.0 — see [LICENSE](LICENSE) for details. Commercial licensing: ironyjk@gmail.com
